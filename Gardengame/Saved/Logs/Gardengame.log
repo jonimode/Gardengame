@@ -937,3 +937,191 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.09.27-13.27.24:120][609]LogAudioMixer: Display: 1: FrontRight
 [2022.09.27-13.32.23:079][268]LogSlate: Took 0.004391 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2022.09.27-13.40.53:060][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.09.27-14.13.34:964][858]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{9b4ba5c8-931d-4529-b126-88fb081d3418}.
+[2022.09.27-14.13.34:964][858]LogTemp: Resetting audio stream to device id 
+[2022.09.27-14.13.35:400][858]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.27-14.13.35:400][858]LogAudioMixer: Display: 1: FrontRight
+[2022.09.27-14.21.52:298][258]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.09.27-14.22.09:174][240]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/Character/CharacterBP.CharacterBP
+[2022.09.27-14.22.09:780][240]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 125 classes and 0 folders.
+[2022.09.27-14.31.52:776][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.09.27-14.31.52:779][966]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.027
+[2022.09.27-14.31.52:780][966]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Character/CharacterBP] ([1] browsable assets)...
+[2022.09.27-14.31.52:780][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Character/CharacterBP]
+[2022.09.27-14.31.52:791][966]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/CharacterBP_Auto14B3A8BD347808416E6C52F836DCB6F70.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/Autosaves/Game/StarterContent/Character/CharacterBP_Auto1.uasset'
+[2022.09.27-14.31.52:791][966]LogFileHelpers: Auto-saving content packages took 0.012
+[2022.09.27-14.38.15:755][112]LogSlate: Window 'CharacterBP' being destroyed
+[2022.09.27-14.38.15:758][112]LogSlate: Window 'CharacterBP' being destroyed
+[2022.09.27-14.38.15:764][112]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-14.38.15:765][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.27-14.39.29:884][ 75]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.09.27-14.39.48:954][846]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/NPC/NewBlueprint.NewBlueprint
+[2022.09.27-14.39.58:668][673]LogSlate: Window 'NewBlueprint' being destroyed
+[2022.09.27-14.39.58:672][673]LogSlate: Window 'NewBlueprint' being destroyed
+[2022.09.27-14.39.58:675][673]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-14.39.58:675][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.27-14.40.12:319][ 23]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.09.27-14.40.20:959][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.09.27-14.40.22:209][ 24]LogSlate: Window 'Delete Assets' being destroyed
+[2022.09.27-14.40.22:285][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.09.27-14.41.23:158][323]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/NPC/NPC.NPC
+[2022.09.27-14.41.31:960][861]LogRenderer: Reallocating scene render targets to support 1208x1028 Format 10 NumSamples 1 (Frame:521).
+[2022.09.27-14.41.34:983][199]LogSlate: Took 0.005209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.09.27-14.42.42:696][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.09.27-14.42.42:697][459]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.018
+[2022.09.27-14.42.42:698][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/NPC/NPC] ([1] browsable assets)...
+[2022.09.27-14.42.42:698][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/NPC/NPC]
+[2022.09.27-14.42.42:698][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/NPC" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/Autosaves/Game/AI/NPC/NPC_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.09.27-14.42.42:704][459]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/NPC_Auto2025E2CAE4992ADC61DFDD6A9FF4D7A7D.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/Autosaves/Game/AI/NPC/NPC_Auto2.uasset'
+[2022.09.27-14.42.42:704][459]LogFileHelpers: Auto-saving content packages took 0.007
+[2022.09.27-14.45.53:379][149]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.09.27-14.46.06:668][693]Cmd: DELETE
+[2022.09.27-14.46.06:668][693]Cmd: ACTOR DELETE
+[2022.09.27-14.46.06:692][693]LogEditorActor: Deleted Actor: Character
+[2022.09.27-14.46.06:710][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.09.27-14.46.06:712][693]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2022.09.27-14.46.30:918][540]LogActorFactory: Actor Factory created Shape_Cylinder
+[2022.09.27-14.46.32:263][700]LogActorFactory: Actor Factory created Shape_Cylinder
+[2022.09.27-14.48.13:718][413]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cylinder)
+[2022.09.27-14.48.15:087][576]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Shape_Cylinder)
+[2022.09.27-14.52.43:084][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.09.27-14.52.43:109][640]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/Minimal_Default_Auto367B0A1174AC2006B0D56A2AFC6D8C63F.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap'
+[2022.09.27-14.52.43:110][640]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.048
+[2022.09.27-14.52.43:110][640]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.048
+[2022.09.27-14.58.08:799][910]AssetReimport: New page: Outstanding source content changes 18:58:08
+[2022.09.27-14.58.08:802][910]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Content/tempGardenar.fbx)
+[2022.09.27-14.58.08:846][910]LogFbx: Loading FBX Scene from C:/Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Content/tempGardenar.fbx
+[2022.09.27-14.58.08:857][910]LogFbx: FBX Scene Loaded Succesfully
+[2022.09.27-14.58.25:493][910]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.09.27-14.58.26:153][910]LogFbx: Triangulating skeletal mesh Cube
+[2022.09.27-14.58.26:170][910]LogSkeletalMesh: Section 0: 57 vertices, 1 active bones
+[2022.09.27-14.58.26:171][910]LogSkeletalMesh: Section 0: Material=0, 76 triangles
+[2022.09.27-14.58.26:175][910]LogSkeletalMesh: Building Skeletal Mesh tempGardenar...
+[2022.09.27-14.58.26:176][910]LogSkeletalMesh: Section 0: 57 vertices, 1 active bones
+[2022.09.27-14.58.26:177][910]LogSkeletalMesh: Section 0: Material=0, 76 triangles
+[2022.09.27-14.58.26:180][910]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/tempGardenar.tempGardenar
+[2022.09.27-14.58.26:197][910]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2022.09.27-14.58.26:197][910]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-14.58.26:197][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.27-14.58.26:205][910]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-14.58.26:205][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.27-14.58.26:348][910]LogSlate: Took 0.014708 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.09.27-14.58.26:437][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tempGardenar" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Content/tempGardenar.uasset" SILENT=true
+[2022.09.27-14.58.26:444][911]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/tempGardenarED22955140E117527BFC28B3C9D0EC0C.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Content/tempGardenar.uasset'
+[2022.09.27-14.58.26:484][912]AssetCheck: New page: Asset Save: tempGardenar
+[2022.09.27-14.58.26:484][912]LogContentValidation: Display: Validating SkeletalMesh /Game/tempGardenar.tempGardenar
+[2022.09.27-14.58.29:457][255]AssetReimport: Importing new asset /Game/tempGardenar.
+[2022.09.27-14.58.31:719][526]LogSlate: Window 'Message Log' being destroyed
+[2022.09.27-14.58.31:722][526]LogSlate: Window 'Message Log' being destroyed
+[2022.09.27-14.58.39:988][395]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.09.27-14.58.42:962][395]LogObjectTools: Deleting 3 worlds: /Game/StarterContent/Maps/Minimal_Default.Minimal_Default, /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting, /Game/StarterContent/Maps/StarterMap.StarterMap
+[2022.09.27-14.58.42:962][395]LogObjectTools: Currently 7 active worlds: /Game/StarterContent/Maps/Minimal_Default.Minimal_Default, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_8, /Engine/Transient.World_9
+[2022.09.27-14.58.44:380][395]LogSlate: Window 'Unable to delete level' being destroyed
+[2022.09.27-14.58.44:384][395]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2022.09.27-14.58.45:465][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cylinder)
+[2022.09.27-14.58.47:687][775]Cmd: DELETE
+[2022.09.27-14.58.47:687][775]Cmd: ACTOR DELETE
+[2022.09.27-14.58.47:689][775]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.27-14.58.47:713][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.09.27-14.58.47:715][775]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2022.09.27-14.59.29:993][ 71]LogEditorTransaction: Undo Modify Component Scale
+[2022.09.27-15.00.13:640][645]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.09.27-15.00.51:266][736]BlueprintLog: New page: Compile NPC
+[2022.09.27-15.00.51:314][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.09.27-15.00.55:937][891]LogSlate: Window 'NPC' being destroyed
+[2022.09.27-15.00.55:941][891]LogSlate: Window 'NPC' being destroyed
+[2022.09.27-15.00.55:945][891]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-15.00.55:945][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.27-15.01.39:045][851]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.09.27-15.01.46:040][851]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.09.27-15.03.01:280][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.09.27-15.03.01:300][284]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/Minimal_Default_Auto4D19601BE4434223E5F55728F712EDDF3.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto4.umap'
+[2022.09.27-15.03.01:301][284]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.046
+[2022.09.27-15.03.01:301][284]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.046
+[2022.09.27-15.03.01:301][284]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/NPC/NPC] ([1] browsable assets)...
+[2022.09.27-15.03.01:310][284]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/NPC/NPC.NPC]
+[2022.09.27-15.03.01:311][284]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/NPC/NPC]
+[2022.09.27-15.03.01:311][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/NPC" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/Autosaves/Game/AI/NPC/NPC_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2022.09.27-15.03.01:321][284]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/NPC_Auto422105A274DFDA3E772D3A4AA63EA793D.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/Autosaves/Game/AI/NPC/NPC_Auto4.uasset'
+[2022.09.27-15.03.01:322][284]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Material] ([1] browsable assets)...
+[2022.09.27-15.03.01:331][284]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Material.Material]
+[2022.09.27-15.03.01:331][284]OBJ SavePackage: Finished generating thumbnails for package [/Game/Material]
+[2022.09.27-15.03.01:331][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/Autosaves/Game/Material_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2022.09.27-15.03.01:337][284]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/Material_Auto4E1C20D684197304F53752493E6EEFC80.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/Autosaves/Game/Material_Auto4.uasset'
+[2022.09.27-15.03.01:338][284]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/tempGardenar_Skeleton] ([1] browsable assets)...
+[2022.09.27-15.03.01:338][284]OBJ SavePackage: Finished generating thumbnails for package [/Game/tempGardenar_Skeleton]
+[2022.09.27-15.03.01:340][284]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/tempGardenar_Skeleton_Auto4A64C522C4CABE23D307BD6936637A645.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/Autosaves/Game/tempGardenar_Skeleton_Auto4.uasset'
+[2022.09.27-15.03.01:341][284]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/tempGardenar_PhysicsAsset] ([1] browsable assets)...
+[2022.09.27-15.03.01:349][284]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/tempGardenar_PhysicsAsset.tempGardenar_PhysicsAsset]
+[2022.09.27-15.03.01:349][284]OBJ SavePackage: Finished generating thumbnails for package [/Game/tempGardenar_PhysicsAsset]
+[2022.09.27-15.03.01:355][284]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/tempGardenar_PhysicsAsset_Auto4D84ACFB84CAE6F66226BD588FC1EE40E.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/Autosaves/Game/tempGardenar_PhysicsAsset_Auto4.uasset'
+[2022.09.27-15.03.01:357][284]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/NPC/NPC_AI] ([1] browsable assets)...
+[2022.09.27-15.03.01:357][284]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/NPC/NPC_AI]
+[2022.09.27-15.03.01:361][284]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/NPC_AI_Auto4AACD40E84CE5A2563AB99F8A81E7F25B.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/Autosaves/Game/AI/NPC/NPC_AI_Auto4.uasset'
+[2022.09.27-15.03.01:362][284]LogFileHelpers: Auto-saving content packages took 0.061
+[2022.09.27-15.03.31:418][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/NPC_BT" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Content/AI/NPC/NPC_BT.uasset" SILENT=true
+[2022.09.27-15.03.31:420][602]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/NPC_BT94F507674067F6B7DA92DD8176DBD195.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Content/AI/NPC/NPC_BT.uasset'
+[2022.09.27-15.03.31:568][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.09.27-15.03.31:591][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.09.27-15.03.31:607][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.09.27-15.03.31:635][602]AssetCheck: New page: Asset Save: NPC_BT
+[2022.09.27-15.03.31:635][602]LogContentValidation: Display: Validating BehaviorTree /Game/AI/NPC/NPC_BT.NPC_BT
+[2022.09.27-15.04.06:198][624]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/NPC/NPC.NPC
+[2022.09.27-15.04.06:489][624]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2022.09.27-15.04.06:532][624]LogSlate: The tab "CompilerResults" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2022.09.27-15.04.11:489][ 82]LogSlate: Window 'CompilerResults' being destroyed
+[2022.09.27-15.04.11:493][ 82]LogSlate: Window 'CompilerResults' being destroyed
+[2022.09.27-15.04.36:124][778]LogSlate: Window 'My Blueprint' being destroyed
+[2022.09.27-15.04.36:126][778]LogSlate: Window 'My Blueprint' being destroyed
+[2022.09.27-15.04.37:461][937]LogSlate: Window 'NPC' being destroyed
+[2022.09.27-15.04.37:464][937]LogSlate: Window 'NPC' being destroyed
+[2022.09.27-15.04.37:468][937]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-15.04.37:468][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.27-15.04.39:158][132]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/NPC/NPC.NPC
+[2022.09.27-15.04.39:451][132]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2022.09.27-15.04.39:476][132]LogSlate: The tab "CompilerResults" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2022.09.27-15.05.11:760][688]LogSlate: Window 'Class Defaults' being destroyed
+[2022.09.27-15.05.14:488][993]LogSlate: Window 'CompilerResults' being destroyed
+[2022.09.27-15.05.14:490][993]LogSlate: Window 'NPC' being destroyed
+[2022.09.27-15.06.24:048][132]LogSlate: Window 'Content Browser' being destroyed
+[2022.09.27-15.06.24:051][132]LogSlate: Window 'Content Browser' being destroyed
+[2022.09.27-15.06.34:496][329]LogSlate: Window 'My Blueprint' being destroyed
+[2022.09.27-15.06.44:577][451]LogSlate: Window 'Content Browser' being destroyed
+[2022.09.27-15.06.44:580][451]LogSlate: Window 'Content Browser' being destroyed
+[2022.09.27-15.08.02:305][618]BlueprintLog: New page: Compile NPC
+[2022.09.27-15.08.02:366][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.09.27-15.08.05:223][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/NPC" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Content/AI/NPC/NPC.uasset" SILENT=true
+[2022.09.27-15.08.05:234][949]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/NPC183531E94FDF2033F29175AB6BB4E2FE.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Content/AI/NPC/NPC.uasset'
+[2022.09.27-15.08.05:246][949]AssetCheck: New page: Asset Save: NPC
+[2022.09.27-15.08.05:246][949]LogContentValidation: Display: Validating Blueprint /Game/AI/NPC/NPC.NPC
+[2022.09.27-15.08.07:628][232]LogSlate: Window 'CompilerResults' being destroyed
+[2022.09.27-15.08.07:629][232]LogSlate: Window 'CompilerResults' being destroyed
+[2022.09.27-15.08.07:629][232]LogSlate: Window 'NPC' being destroyed
+[2022.09.27-15.08.07:633][232]LogSlate: Window 'NPC' being destroyed
+[2022.09.27-15.08.07:633][232]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-15.08.07:633][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.27-15.08.11:444][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.09.27-15.08.11:486][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.09.27-15.08.11:504][652]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/Minimal_DefaultF383EB114F07F367226FD8BCE36A9533.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.09.27-15.08.11:513][652]LogFileHelpers: Saving map 'Minimal_Default' took 0.044
+[2022.09.27-15.08.11:559][652]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/Minimal_Default_BuiltData17BCAB69405C06D01CE9F6BB9548E43C.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.09.27-15.08.11:567][652]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/CharacterBP554FD0254DF43B9DBE0A0EA3452ED69B.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Content/StarterContent/Character/CharacterBP.uasset'
+[2022.09.27-15.08.11:569][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Content/Material.uasset" SILENT=true
+[2022.09.27-15.08.11:571][652]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/Material1E1004EE4A3232FF4CCA348E2C0D3DD4.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Content/Material.uasset'
+[2022.09.27-15.08.11:577][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tempGardenar_Skeleton" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Content/tempGardenar_Skeleton.uasset" SILENT=true
+[2022.09.27-15.08.11:579][652]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/tempGardenar_SkeletonBD9C9DF04C1A21E971BAAAAEE01966E2.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Content/tempGardenar_Skeleton.uasset'
+[2022.09.27-15.08.11:585][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tempGardenar_PhysicsAsset" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Content/tempGardenar_PhysicsAsset.uasset" SILENT=true
+[2022.09.27-15.08.11:588][652]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/tempGardenar_PhysicsAsset748A93A34CE0760D0CAE8D952586DC3E.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Content/tempGardenar_PhysicsAsset.uasset'
+[2022.09.27-15.08.11:591][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/NPC_AI" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Content/AI/NPC/NPC_AI.uasset" SILENT=true
+[2022.09.27-15.08.11:596][652]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/NPC_AI2F11CF4847EB564BFD9359ADB64B1BE7.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Content/AI/NPC/NPC_AI.uasset'
+[2022.09.27-15.08.11:597][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/NPC_BB" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Content/AI/NPC/NPC_BB.uasset" SILENT=true
+[2022.09.27-15.08.11:599][652]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Saved/NPC_BBF713372E4F06A432E34CE998BBA0123D.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/Gardengame/Content/AI/NPC/NPC_BB.uasset'
+[2022.09.27-15.08.11:640][652]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.27-15.08.11:640][652]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.09.27-15.08.11:640][652]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.09.27-15.08.11:640][652]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Character/CharacterBP.CharacterBP
+[2022.09.27-15.08.11:640][652]LogContentValidation: Display: Validating Material /Game/Material.Material
+[2022.09.27-15.08.11:640][652]LogContentValidation: Display: Validating Skeleton /Game/tempGardenar_Skeleton.tempGardenar_Skeleton
+[2022.09.27-15.08.11:640][652]LogContentValidation: Display: Validating PhysicsAsset /Game/tempGardenar_PhysicsAsset.tempGardenar_PhysicsAsset
+[2022.09.27-15.08.11:640][652]LogContentValidation: Display: Validating Blueprint /Game/AI/NPC/NPC_AI.NPC_AI
+[2022.09.27-15.08.11:640][652]LogContentValidation: Display: Validating BlackboardData /Game/AI/NPC/NPC_BB.NPC_BB
