@@ -2033,3 +2033,1731 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.05-17.04.50:255][802]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F39FC61400), frame # 398802
 [2022.10.05-17.04.50:256][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
 [2022.10.05-17.04.50:282][803]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.10.05-17.11.10:097][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.10.05-17.11.13:096][563]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.05-17.11.45:025][222]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/NPC/FindPlantLocation_4.FindPlantLocation_4
+[2022.10.05-17.11.54:225][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.10.05-17.11.56:767][223]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.05-17.11.57:283][223]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-17.11.57:283][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-17.11.57:314][223]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/AI/NPC/FindPlantLocation_4.FindPlantLocation_4
+[2022.10.05-17.11.58:105][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.10.05-17.11.58:128][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.10.05-17.11.58:147][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.10.05-17.13.42:887][339]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor0)
+[2022.10.05-17.15.42:304][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.10.05-17.15.42:309][161]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.028
+[2022.10.05-17.15.42:309][161]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/NPC/NPC_BT] ([1] browsable assets)...
+[2022.10.05-17.15.42:309][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/NPC/NPC_BT]
+[2022.10.05-17.15.42:322][161]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/NPC_BT_Auto32F47FCCB4FC44A2FF51DF88279581E36.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/Autosaves/Game/AI/NPC/NPC_BT_Auto3.uasset'
+[2022.10.05-17.15.42:323][161]LogFileHelpers: Auto-saving content packages took 0.014
+[2022.10.05-17.16.01:340][250]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor)
+[2022.10.05-17.16.03:884][537]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor0)
+[2022.10.05-17.16.04:578][612]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor4)
+[2022.10.05-17.16.05:301][692]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor0)
+[2022.10.05-17.16.06:178][790]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor)
+[2022.10.05-17.16.12:890][563]LogEditorViewport: Clicking on Actor (LMB): NPC_C (NPC)
+[2022.10.05-17.16.16:060][873]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor4)
+[2022.10.05-17.16.16:805][954]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor0)
+[2022.10.05-17.16.17:979][ 80]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor)
+[2022.10.05-17.16.19:532][254]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor1)
+[2022.10.05-17.16.20:780][394]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor0)
+[2022.10.05-17.16.21:697][496]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor4)
+[2022.10.05-17.16.43:585][ 12]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.10.05-17.16.44:662][128]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor0)
+[2022.10.05-17.16.45:932][270]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor)
+[2022.10.05-17.16.46:852][372]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor1)
+[2022.10.05-17.16.47:649][460]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor2)
+[2022.10.05-17.22.47:078][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.10.05-17.22.47:109][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/NPC_BT" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/NPC/NPC_BT.uasset" SILENT=true
+[2022.10.05-17.22.47:127][274]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/NPC_BTD4DAEAAC4C1F7B88E3F58180DD776F79.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/NPC/NPC_BT.uasset'
+[2022.10.05-17.22.47:139][274]AssetCheck: New page: Asset Save: NPC_BT
+[2022.10.05-17.22.47:139][274]LogContentValidation: Display: Validating BehaviorTree /Game/AI/NPC/NPC_BT.NPC_BT
+[2022.10.05-17.24.32:218][317]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{f40051da-abf0-4941-817e-b7fac49e48cd}.
+[2022.10.05-17.24.32:218][317]LogTemp: Resetting audio stream to device id 
+[2022.10.05-17.24.33:057][317]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-17.24.33:057][317]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-17.24.33:317][318]LogTemp: Resetting audio stream to device id 
+[2022.10.05-17.24.33:367][318]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-17.24.33:368][318]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-17.25.42:586][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.10.05-17.25.42:625][524]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/ThirdPersonExampleMap_Auto465FE35E44F115D8D9E8DB289FCE8BBE5.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2022.10.05-17.25.42:627][524]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.070
+[2022.10.05-17.25.42:627][524]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.070
+[2022.10.05-17.32.11:979][683]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{083ecf33-b8e6-4695-91d6-c725b70b7623}.
+[2022.10.05-17.32.11:979][683]LogTemp: Resetting audio stream to device id 
+[2022.10.05-17.32.12:014][683]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-17.32.12:014][683]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-17.44.40:594][916]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{f40051da-abf0-4941-817e-b7fac49e48cd}.
+[2022.10.05-17.44.40:594][916]LogTemp: Resetting audio stream to device id 
+[2022.10.05-17.44.40:959][916]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-17.44.40:959][916]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-17.55.39:928][124]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/TempInterface/W_HealthBar.
+[2022.10.05-17.55.41:159][264]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/TempInterface/W_HealthBar.W_HealthBar
+[2022.10.05-17.57.56:223][933]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-17.57.56:223][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-17.57.56:258][933]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-17.57.56:258][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-17.58.02:086][556]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.10.05-17.58.03:601][556]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.05-17.58.04:207][556]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/TempInterface/W_HealthBar.W_HealthBar
+[2022.10.05-17.58.05:696][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.10.05-17.58.18:202][ 42]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/TempInterface/W_HealthBar.
+[2022.10.05-17.58.20:020][253]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/TempInterface/W_HealthBar.W_HealthBar
+[2022.10.05-17.58.34:154][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TempInterface/W_HealthBar" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/TempInterface/W_HealthBar.uasset" SILENT=true
+[2022.10.05-17.58.34:158][627]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/W_HealthBar7D7D0A1C47D245688912729DF6BAC508.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/TempInterface/W_HealthBar.uasset'
+[2022.10.05-17.58.34:168][627]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/TempInterface/W_HealthBar.
+[2022.10.05-17.58.34:176][627]AssetCheck: New page: Asset Save: W_HealthBar
+[2022.10.05-17.58.34:177][627]LogContentValidation: Display: Validating WidgetBlueprint /Game/TempInterface/W_HealthBar.W_HealthBar
+[2022.10.05-18.01.48:761][995]LogEditorTransaction: Undo Edit Right
+[2022.10.05-18.01.49:319][  4]LogEditorTransaction: Undo Edit Image
+[2022.10.05-18.01.54:032][415]LogEditorTransaction: Redo Edit Image
+[2022.10.05-18.02.21:037][439]BlueprintLog: New page: Compile W_HealthBar
+[2022.10.05-18.02.21:084][439]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.10.05-18.02.21:806][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TempInterface/W_HealthBar" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/TempInterface/W_HealthBar.uasset" SILENT=true
+[2022.10.05-18.02.21:819][491]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/W_HealthBar7CF3C38D4A02A21B64D5A6A60D946825.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/TempInterface/W_HealthBar.uasset'
+[2022.10.05-18.02.21:833][491]AssetCheck: New page: Asset Save: W_HealthBar
+[2022.10.05-18.02.21:833][491]LogContentValidation: Display: Validating WidgetBlueprint /Game/TempInterface/W_HealthBar.W_HealthBar
+[2022.10.05-18.03.24:180][953]BlueprintLog: New page: Compile W_HealthBar
+[2022.10.05-18.03.24:210][953]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.10.05-18.03.24:859][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TempInterface/W_HealthBar" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/TempInterface/W_HealthBar.uasset" SILENT=true
+[2022.10.05-18.03.24:873][998]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/W_HealthBarA43731D541FC2348B6E6108E17997889.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/TempInterface/W_HealthBar.uasset'
+[2022.10.05-18.03.24:884][998]AssetCheck: New page: Asset Save: W_HealthBar
+[2022.10.05-18.03.24:884][998]LogContentValidation: Display: Validating WidgetBlueprint /Game/TempInterface/W_HealthBar.W_HealthBar
+[2022.10.05-18.03.54:202][779]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Plants/PlantActor.PlantActor
+[2022.10.05-18.04.05:063][951]LogRenderer: Reallocating scene render targets to support 1208x1028 Format 10 NumSamples 1 (Frame:1).
+[2022.10.05-18.05.38:537][232]BlueprintLog: New page: Compile PlantActor
+[2022.10.05-18.05.38:625][232]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.10.05-18.05.41:415][292]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.05-18.05.41:426][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.05-18.05.41:426][292]PIE: New page: PIE session: ThirdPersonExampleMap (5 okt. 2022 22:05:41)
+[2022.10.05-18.05.41:426][292]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-18.05.41:438][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012159s)
+[2022.10.05-18.05.41:439][292]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.10.05-18.05.41:439][292]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F399A37E00), frame # 570292
+[2022.10.05-18.05.41:439][292]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F3F07A1300), frame # 570292
+[2022.10.05-18.05.41:440][292]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2022.10.05-18.05.41:440][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013487s)
+[2022.10.05-18.05.41:472][292]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.10.05-18.05.41:474][292]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-18.05.41:474][292]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-18.05.41:474][292]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-18.05.41:474][292]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-18.05.41:474][292]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-18.05.41:474][292]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.05-18.05.41:474][292]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-18.05.41:474][292]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-18.05.41:475][292]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.05-18.05.41:475][292]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.05-18.05.41:479][292]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-18.05.41:479][292]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-18.05.41:636][292]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.10.05-18.05.41:636][292]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-18.05.41:636][292]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-18.05.41:636][292]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-18.05.41:637][292]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.05-18.05.41:647][292]LogInit: FAudioDevice initialized.
+[2022.10.05-18.05.41:658][292]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.05-18.05.41:660][292]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.10.05-20.05.41
+[2022.10.05-18.05.41:661][292]LogWorld: Bringing up level for play took: 0.002459
+[2022.10.05-18.05.41:661][292]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.10.05-18.05.41:667][292]PIE: Server logged in
+[2022.10.05-18.05.41:668][292]PIE: Play in editor total start time 0,244 seconds.
+[2022.10.05-18.05.41:669][292]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.05.41:669][292]LogBlueprintUserMessages: [SelectRandPlant_C_0] 4
+[2022.10.05-18.05.41:723][293]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.05.41:742][294]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.05.41:742][294]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.05.49:310][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.05.49:310][ 71]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-18.05.49:311][ 71]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.05.49:312][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.05.49:331][ 71]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-18.05.49:337][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.05.49:386][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.05.49:387][ 71]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F3F07A1300), frame # 571071
+[2022.10.05-18.05.49:387][ 71]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F399A37E00), frame # 571071
+[2022.10.05-18.05.49:390][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.10.05-18.05.49:410][ 72]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.10.05-18.05.50:264][170]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.05-18.05.50:275][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.05-18.05.50:275][170]PIE: New page: PIE session: ThirdPersonExampleMap (5 okt. 2022 22:05:50)
+[2022.10.05-18.05.50:275][170]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-18.05.50:284][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009082s)
+[2022.10.05-18.05.50:285][170]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.10.05-18.05.50:285][170]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F426B79E00), frame # 571170
+[2022.10.05-18.05.50:285][170]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F4025D5A80), frame # 571170
+[2022.10.05-18.05.50:286][170]LogPlayLevel: PIE: World Init took: (0.001272s)
+[2022.10.05-18.05.50:286][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010467s)
+[2022.10.05-18.05.50:318][170]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.10.05-18.05.50:319][170]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-18.05.50:319][170]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-18.05.50:319][170]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-18.05.50:319][170]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-18.05.50:319][170]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-18.05.50:319][170]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.05-18.05.50:319][170]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-18.05.50:319][170]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-18.05.50:320][170]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.05-18.05.50:320][170]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.05-18.05.50:324][170]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-18.05.50:324][170]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-18.05.50:434][170]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.10.05-18.05.50:435][170]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-18.05.50:435][170]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-18.05.50:435][170]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-18.05.50:435][170]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.05-18.05.50:446][170]LogInit: FAudioDevice initialized.
+[2022.10.05-18.05.50:456][170]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.05-18.05.50:459][170]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.10.05-20.05.50
+[2022.10.05-18.05.50:460][170]LogWorld: Bringing up level for play took: 0.002194
+[2022.10.05-18.05.50:460][170]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2022.10.05-18.05.50:463][170]PIE: Server logged in
+[2022.10.05-18.05.50:464][170]PIE: Play in editor total start time 0,191 seconds.
+[2022.10.05-18.05.50:465][170]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.05.50:465][170]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.05.50:526][171]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.05.50:531][172]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.05.50:532][172]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.05.55:549][767]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.05.55:549][767]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-18.05.55:558][768]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.05.55:566][769]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.05.55:566][769]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.05.58:917][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.05.58:917][166]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-18.05.58:919][166]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.05.58:920][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.05.58:937][166]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-18.05.58:944][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.05.58:993][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.05.58:994][166]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F4025D5A80), frame # 572166
+[2022.10.05-18.05.58:994][166]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F426B79E00), frame # 572166
+[2022.10.05-18.05.58:997][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.10.05-18.05.59:018][167]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.10.05-18.06.30:106][670]BlueprintLog: New page: Compile PlantActor
+[2022.10.05-18.06.30:161][670]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.10.05-18.06.31:629][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Plants/PlantActor" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/Plants/PlantActor.uasset" SILENT=true
+[2022.10.05-18.06.31:651][808]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/PlantActorD2DAA305400DCD28BF366180A8603586.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/Plants/PlantActor.uasset'
+[2022.10.05-18.06.31:667][808]AssetCheck: New page: Asset Save: PlantActor
+[2022.10.05-18.06.31:667][808]LogContentValidation: Display: Validating Blueprint /Game/AI/Plants/PlantActor.PlantActor
+[2022.10.05-18.06.38:182][458]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.10.05-18.06.38:217][458]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/ThirdPersonExampleMap_Auto5BDEE7997412F2AC715390EB1FB6C6F6A.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2022.10.05-18.06.38:219][458]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.068
+[2022.10.05-18.06.38:219][458]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.068
+[2022.10.05-18.06.39:567][581]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.05-18.06.39:578][581]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.05-18.06.39:578][581]PIE: New page: PIE session: ThirdPersonExampleMap (5 okt. 2022 22:06:39)
+[2022.10.05-18.06.39:619][581]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-18.06.39:645][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025273s)
+[2022.10.05-18.06.39:647][581]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.10.05-18.06.39:647][581]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F41C8EFE00), frame # 573581
+[2022.10.05-18.06.39:648][581]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F406058F40), frame # 573581
+[2022.10.05-18.06.39:649][581]LogPlayLevel: PIE: World Init took: (0.003976s)
+[2022.10.05-18.06.39:649][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.029929s)
+[2022.10.05-18.06.39:691][581]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.10.05-18.06.39:692][581]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-18.06.39:692][581]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-18.06.39:692][581]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-18.06.39:692][581]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-18.06.39:692][581]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-18.06.39:692][581]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.05-18.06.39:692][581]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-18.06.39:692][581]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-18.06.39:693][581]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.05-18.06.39:693][581]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.05-18.06.39:697][581]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-18.06.39:697][581]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-18.06.39:826][581]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.10.05-18.06.39:827][581]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-18.06.39:827][581]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-18.06.39:827][581]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-18.06.39:827][581]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.05-18.06.39:850][581]LogInit: FAudioDevice initialized.
+[2022.10.05-18.06.39:871][581]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.05-18.06.39:874][581]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.10.05-20.06.39
+[2022.10.05-18.06.39:874][581]LogWorld: Bringing up level for play took: 0.002465
+[2022.10.05-18.06.39:874][581]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.10.05-18.06.39:878][581]PIE: Server logged in
+[2022.10.05-18.06.39:878][581]PIE: Play in editor total start time 0,303 seconds.
+[2022.10.05-18.06.39:880][581]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.06.39:880][581]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.06.39:931][582]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.06.39:947][583]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.06.39:947][583]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.06.44:971][135]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.06.44:971][135]LogBlueprintUserMessages: [SelectRandPlant_C_0] 4
+[2022.10.05-18.06.44:981][136]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.06.44:989][137]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.06.44:989][137]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.06.50:671][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.06.50:671][774]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-18.06.50:672][774]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.06.50:672][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.06.50:681][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-18.06.50:684][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.06.50:729][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.06.50:730][774]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F406058F40), frame # 574774
+[2022.10.05-18.06.50:730][774]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F41C8EFE00), frame # 574774
+[2022.10.05-18.06.50:732][774]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.10.05-18.06.50:777][775]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.10.05-18.06.55:431][274]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.05-18.06.55:441][274]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.05-18.06.55:441][274]PIE: New page: PIE session: ThirdPersonExampleMap (5 okt. 2022 22:06:55)
+[2022.10.05-18.06.55:441][274]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-18.06.55:450][274]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008835s)
+[2022.10.05-18.06.55:451][274]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.10.05-18.06.55:451][274]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F432681E00), frame # 575274
+[2022.10.05-18.06.55:451][274]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F40D5E5080), frame # 575274
+[2022.10.05-18.06.55:451][274]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2022.10.05-18.06.55:451][274]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009938s)
+[2022.10.05-18.06.55:483][274]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.10.05-18.06.55:485][274]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-18.06.55:485][274]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-18.06.55:485][274]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-18.06.55:485][274]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-18.06.55:485][274]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-18.06.55:485][274]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.05-18.06.55:485][274]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-18.06.55:485][274]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-18.06.55:486][274]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.05-18.06.55:486][274]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.05-18.06.55:490][274]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-18.06.55:490][274]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-18.06.55:590][274]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.10.05-18.06.55:590][274]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-18.06.55:591][274]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-18.06.55:591][274]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-18.06.55:591][274]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.05-18.06.55:600][274]LogInit: FAudioDevice initialized.
+[2022.10.05-18.06.55:610][274]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.05-18.06.55:612][274]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.10.05-20.06.55
+[2022.10.05-18.06.55:612][274]LogWorld: Bringing up level for play took: 0.001930
+[2022.10.05-18.06.55:613][274]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2022.10.05-18.06.55:616][274]PIE: Server logged in
+[2022.10.05-18.06.55:616][274]PIE: Play in editor total start time 0,178 seconds.
+[2022.10.05-18.06.55:618][274]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.06.55:618][274]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-18.06.55:681][275]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.06.55:686][276]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.06.55:686][276]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.07.00:703][878]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.07.00:703][878]LogBlueprintUserMessages: [SelectRandPlant_C_0] 3
+[2022.10.05-18.07.00:711][879]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.07.00:719][880]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.07.00:720][880]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.07.05:742][482]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.07.05:743][482]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.07.05:751][483]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.07.05:759][484]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.07.05:759][484]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.07.10:159][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.07.10:159][  7]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-18.07.10:160][  7]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.07.10:160][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.07.10:174][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-18.07.10:179][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.07.10:213][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.07.10:230][  7]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F40D5E5080), frame # 577007
+[2022.10.05-18.07.10:230][  7]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F432681E00), frame # 577007
+[2022.10.05-18.07.10:232][  7]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.10.05-18.07.10:255][  8]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.10.05-18.07.26:920][687]BlueprintLog: New page: Compile PlantActor
+[2022.10.05-18.07.26:975][687]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.10.05-18.07.28:957][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Plants/PlantActor" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/Plants/PlantActor.uasset" SILENT=true
+[2022.10.05-18.07.28:974][866]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/PlantActorFC8DAF9C4ED5D0388CBD018791312375.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/Plants/PlantActor.uasset'
+[2022.10.05-18.07.28:986][866]AssetCheck: New page: Asset Save: PlantActor
+[2022.10.05-18.07.28:986][866]LogContentValidation: Display: Validating Blueprint /Game/AI/Plants/PlantActor.PlantActor
+[2022.10.05-18.07.31:270][ 93]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.05-18.07.31:280][ 93]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.05-18.07.31:280][ 93]PIE: New page: PIE session: ThirdPersonExampleMap (5 okt. 2022 22:07:31)
+[2022.10.05-18.07.31:309][ 93]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-18.07.31:327][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018168s)
+[2022.10.05-18.07.31:328][ 93]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.10.05-18.07.31:328][ 93]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F427041200), frame # 579093
+[2022.10.05-18.07.31:328][ 93]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F4025E7100), frame # 579093
+[2022.10.05-18.07.31:328][ 93]LogPlayLevel: PIE: World Init took: (0.001191s)
+[2022.10.05-18.07.31:328][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019597s)
+[2022.10.05-18.07.31:362][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.10.05-18.07.31:364][ 93]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-18.07.31:364][ 93]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-18.07.31:364][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-18.07.31:364][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-18.07.31:364][ 93]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-18.07.31:364][ 93]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.05-18.07.31:364][ 93]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-18.07.31:364][ 93]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-18.07.31:364][ 93]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.05-18.07.31:364][ 93]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.05-18.07.31:368][ 93]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-18.07.31:368][ 93]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-18.07.31:501][ 93]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.10.05-18.07.31:502][ 93]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-18.07.31:502][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-18.07.31:502][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-18.07.31:502][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.05-18.07.31:511][ 93]LogInit: FAudioDevice initialized.
+[2022.10.05-18.07.31:516][ 93]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.05-18.07.31:519][ 93]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.10.05-20.07.31
+[2022.10.05-18.07.31:520][ 93]LogWorld: Bringing up level for play took: 0.002107
+[2022.10.05-18.07.31:520][ 93]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2022.10.05-18.07.31:522][ 93]PIE: Server logged in
+[2022.10.05-18.07.31:523][ 93]PIE: Play in editor total start time 0,246 seconds.
+[2022.10.05-18.07.31:524][ 93]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.07.31:524][ 93]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-18.07.31:572][ 94]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.07.31:580][ 95]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.07.31:580][ 95]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.07.36:597][697]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.07.36:597][697]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.07.36:605][698]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.07.36:614][699]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.07.36:614][699]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.07.41:632][301]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.07.41:632][301]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-18.07.41:640][302]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.07.41:648][303]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.07.41:648][303]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.07.46:666][905]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.07.46:666][905]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-18.07.46:674][906]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.07.46:682][907]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.07.46:683][907]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.07.49:398][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.07.49:399][228]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-18.07.49:399][228]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.07.49:400][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.07.49:417][228]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-18.07.49:422][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.07.49:487][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.07.49:488][228]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F4025E7100), frame # 581228
+[2022.10.05-18.07.49:488][228]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F427041200), frame # 581228
+[2022.10.05-18.07.49:490][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.10.05-18.07.49:514][229]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.10.05-18.09.22:666][712]BlueprintLog: New page: Compile PlantActor
+[2022.10.05-18.09.22:728][712]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.10.05-18.09.42:094][723]BlueprintLog: New page: Compile PlantActor
+[2022.10.05-18.09.42:154][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.10.05-18.09.42:871][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Plants/PlantActor" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/Plants/PlantActor.uasset" SILENT=true
+[2022.10.05-18.09.42:895][792]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/PlantActor0E5390BF4B5CC1DFAD94C7A0D4EB352A.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/Plants/PlantActor.uasset'
+[2022.10.05-18.09.42:910][792]AssetCheck: New page: Asset Save: PlantActor
+[2022.10.05-18.09.42:910][792]LogContentValidation: Display: Validating Blueprint /Game/AI/Plants/PlantActor.PlantActor
+[2022.10.05-18.15.00:806][703]BlueprintLog: New page: Compile PlantActor
+[2022.10.05-18.15.00:876][703]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.10.05-18.15.15:850][466]BlueprintLog: New page: Compile PlantActor
+[2022.10.05-18.15.15:913][466]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.10.05-18.15.16:701][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Plants/PlantActor" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/Plants/PlantActor.uasset" SILENT=true
+[2022.10.05-18.15.16:725][543]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/PlantActor375B7A514AD472F02CA93BA437034C23.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/Plants/PlantActor.uasset'
+[2022.10.05-18.15.16:737][543]AssetCheck: New page: Asset Save: PlantActor
+[2022.10.05-18.15.16:737][543]LogContentValidation: Display: Validating Blueprint /Game/AI/Plants/PlantActor.PlantActor
+[2022.10.05-18.18.19:269][164]BlueprintLog: New page: Compile PlantActor
+[2022.10.05-18.18.19:345][164]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2022.10.05-18.18.28:828][228]BlueprintLog: New page: Compile PlantActor
+[2022.10.05-18.18.28:892][228]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.10.05-18.19.12:130][958]BlueprintLog: New page: Compile PlantActor
+[2022.10.05-18.19.12:199][958]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.10.05-18.19.13:283][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Plants/PlantActor" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/Plants/PlantActor.uasset" SILENT=true
+[2022.10.05-18.19.13:308][ 27]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/PlantActorC2F273844446DD476F652C90319A61FA.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/Plants/PlantActor.uasset'
+[2022.10.05-18.19.13:321][ 27]AssetCheck: New page: Asset Save: PlantActor
+[2022.10.05-18.19.13:321][ 27]LogContentValidation: Display: Validating Blueprint /Game/AI/Plants/PlantActor.PlantActor
+[2022.10.05-18.19.20:089][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.10.05-18.19.20:144][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.10.05-18.19.20:179][419]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/ThirdPersonExampleMap475DAECA44EEBD14450B05A7C5B52FF1.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.10.05-18.19.20:199][419]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.084
+[2022.10.05-18.19.20:265][419]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/ThirdPersonExampleMap_BuiltDataDC8C82C6436878FBC19ED59B8624D1DC.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.10.05-18.19.20:289][419]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.05-18.19.20:289][419]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.10.05-18.19.20:289][419]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.10.05-18.29.23:387][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.10.05-18.29.23:389][ 83]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.043
+[2022.10.05-18.29.23:390][ 83]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/Plants/PlantActor] ([1] browsable assets)...
+[2022.10.05-18.29.23:398][ 83]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/Plants/PlantActor.PlantActor]
+[2022.10.05-18.29.23:398][ 83]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Plants/PlantActor]
+[2022.10.05-18.29.23:425][ 83]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/PlantActor_Auto6119852D041F514453F80809DBA0FE8CD.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/Autosaves/Game/AI/Plants/PlantActor_Auto6.uasset'
+[2022.10.05-18.29.23:426][ 83]LogFileHelpers: Auto-saving content packages took 0.036
+[2022.10.05-18.33.18:958][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Plants/PlantActor" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/Plants/PlantActor.uasset" SILENT=true
+[2022.10.05-18.33.18:986][395]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/PlantActor5AF9542745F6047F2917688667672818.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/Plants/PlantActor.uasset'
+[2022.10.05-18.33.19:000][395]AssetCheck: New page: Asset Save: PlantActor
+[2022.10.05-18.33.19:000][395]LogContentValidation: Display: Validating Blueprint /Game/AI/Plants/PlantActor.PlantActor
+[2022.10.05-18.33.25:392][563]BlueprintLog: New page: Compile PlantActor
+[2022.10.05-18.33.25:456][563]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2022.10.05-18.34.29:091][ 88]BlueprintLog: New page: Compile PlantActor
+[2022.10.05-18.34.29:153][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.10.05-18.34.29:756][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Plants/PlantActor" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/Plants/PlantActor.uasset" SILENT=true
+[2022.10.05-18.34.29:783][136]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/PlantActor22004F6B44E0798372A800B668757655.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/Plants/PlantActor.uasset'
+[2022.10.05-18.34.29:795][136]AssetCheck: New page: Asset Save: PlantActor
+[2022.10.05-18.34.29:795][136]LogContentValidation: Display: Validating Blueprint /Game/AI/Plants/PlantActor.PlantActor
+[2022.10.05-18.34.39:103][145]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor2)
+[2022.10.05-18.34.42:196][513]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor3)
+[2022.10.05-18.34.59:531][698]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor2)
+[2022.10.05-18.35.17:413][778]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor3)
+[2022.10.05-18.35.18:183][866]Cmd: DELETE
+[2022.10.05-18.35.18:183][866]Cmd: ACTOR DELETE
+[2022.10.05-18.35.18:186][866]LogEditorActor: Deleted Actor: PlantActor_C
+[2022.10.05-18.35.18:218][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.10.05-18.35.18:220][866]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2022.10.05-18.35.19:383][  1]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor4)
+[2022.10.05-18.35.19:836][ 52]Cmd: DELETE
+[2022.10.05-18.35.19:836][ 52]Cmd: ACTOR DELETE
+[2022.10.05-18.35.19:838][ 52]LogEditorActor: Deleted Actor: PlantActor_C
+[2022.10.05-18.35.19:867][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.10.05-18.35.19:868][ 52]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2022.10.05-18.35.20:289][ 98]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor0)
+[2022.10.05-18.35.20:617][134]Cmd: DELETE
+[2022.10.05-18.35.20:617][134]Cmd: ACTOR DELETE
+[2022.10.05-18.35.20:619][134]LogEditorActor: Deleted Actor: PlantActor_C
+[2022.10.05-18.35.20:648][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.10.05-18.35.20:649][134]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2022.10.05-18.35.21:248][201]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor)
+[2022.10.05-18.35.21:641][245]Cmd: DELETE
+[2022.10.05-18.35.21:641][245]Cmd: ACTOR DELETE
+[2022.10.05-18.35.21:643][245]LogEditorActor: Deleted Actor: PlantActor_C
+[2022.10.05-18.35.21:672][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.10.05-18.35.21:674][245]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2022.10.05-18.35.23:060][406]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor1)
+[2022.10.05-18.35.23:337][436]Cmd: DELETE
+[2022.10.05-18.35.23:337][436]Cmd: ACTOR DELETE
+[2022.10.05-18.35.23:338][436]LogEditorActor: Deleted Actor: PlantActor_C
+[2022.10.05-18.35.23:368][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.10.05-18.35.23:369][436]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2022.10.05-18.35.25:930][737]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor2)
+[2022.10.05-18.35.26:796][837]Cmd: DELETE
+[2022.10.05-18.35.26:796][837]Cmd: ACTOR DELETE
+[2022.10.05-18.35.26:797][837]LogEditorActor: Deleted Actor: PlantActor_C
+[2022.10.05-18.35.26:827][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.10.05-18.35.26:828][837]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2022.10.05-18.35.28:407][ 22]Cmd: TRANSACTION UNDO
+[2022.10.05-18.35.28:407][ 22]LogEditorTransaction: Undo Delete Actors
+[2022.10.05-18.35.29:519][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.10.05-18.35.29:554][100]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/ThirdPersonExampleMap104BA4824BD019FCFE0689B7589AD0B5.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.10.05-18.35.29:634][100]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/ThirdPersonExampleMap_BuiltData195387824DBBE040877F6DB7BC987A93.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.10.05-18.35.29:651][100]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.05-18.35.29:651][100]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.10.05-18.35.29:651][100]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.10.05-18.35.34:905][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.10.05-18.35.37:735][954]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.05-18.35.37:751][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.05-18.35.37:751][954]PIE: New page: PIE session: ThirdPersonExampleMap (5 okt. 2022 22:35:37)
+[2022.10.05-18.35.37:751][954]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-18.35.37:760][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009227s)
+[2022.10.05-18.35.37:761][954]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.10.05-18.35.37:761][954]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F41F779C00), frame # 695954
+[2022.10.05-18.35.37:761][954]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F40D784A40), frame # 695954
+[2022.10.05-18.35.37:761][954]LogPlayLevel: PIE: World Init took: (0.001451s)
+[2022.10.05-18.35.37:761][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010818s)
+[2022.10.05-18.35.37:793][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.10.05-18.35.37:795][954]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-18.35.37:795][954]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-18.35.37:795][954]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-18.35.37:795][954]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-18.35.37:795][954]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-18.35.37:795][954]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.05-18.35.37:795][954]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-18.35.37:795][954]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-18.35.37:795][954]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.05-18.35.37:795][954]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.05-18.35.37:799][954]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-18.35.37:799][954]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-18.35.37:922][954]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.10.05-18.35.37:922][954]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-18.35.37:922][954]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-18.35.37:922][954]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-18.35.37:922][954]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.05-18.35.37:932][954]LogInit: FAudioDevice initialized.
+[2022.10.05-18.35.37:942][954]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.05-18.35.37:944][954]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.10.05-20.35.37
+[2022.10.05-18.35.37:944][954]LogWorld: Bringing up level for play took: 0.001667
+[2022.10.05-18.35.37:945][954]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2022.10.05-18.35.37:947][954]PIE: Server logged in
+[2022.10.05-18.35.37:948][954]PIE: Play in editor total start time 0,204 seconds.
+[2022.10.05-18.35.37:948][954]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.35.37:948][954]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.35.38:014][955]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.35.38:021][956]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.35.38:021][956]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.35.43:040][558]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.35.43:040][558]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.35.43:048][559]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.35.43:056][560]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.35.43:056][560]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.35.43:144][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.35.43:145][565]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-18.35.43:145][565]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.35.43:146][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.35.43:163][565]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-18.35.43:171][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.35.43:227][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.35.43:228][565]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F40D784A40), frame # 696565
+[2022.10.05-18.35.43:228][565]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F41F779C00), frame # 696565
+[2022.10.05-18.35.43:230][565]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.10.05-18.35.43:254][566]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.10.05-18.36.09:101][ 43]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor2)
+[2022.10.05-18.37.14:523][941]BlueprintLog: New page: Compile PlantActor
+[2022.10.05-18.37.14:589][941]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.10.05-18.37.15:396][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Plants/PlantActor" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/Plants/PlantActor.uasset" SILENT=true
+[2022.10.05-18.37.15:420][999]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/PlantActorCE79D6FD47FA7EDB5840CAA7E0E454CE.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/Plants/PlantActor.uasset'
+[2022.10.05-18.37.15:432][999]AssetCheck: New page: Asset Save: PlantActor
+[2022.10.05-18.37.15:432][999]LogContentValidation: Display: Validating Blueprint /Game/AI/Plants/PlantActor.PlantActor
+[2022.10.05-18.37.20:592][519]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.10.05-18.37.20:646][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.10.05-18.37.20:672][519]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/ThirdPersonExampleMap0FDE7E654B6BF338634054A45ED1FEB9.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.10.05-18.37.20:687][519]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.074
+[2022.10.05-18.37.20:748][519]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/ThirdPersonExampleMap_BuiltData54ABABCB4C4657A4BD65B8ADEFD9E99D.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.10.05-18.37.20:764][519]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.05-18.37.20:764][519]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.10.05-18.37.20:764][519]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.10.05-18.37.21:656][606]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.05-18.37.21:667][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.05-18.37.21:668][606]PIE: New page: PIE session: ThirdPersonExampleMap (5 okt. 2022 22:37:21)
+[2022.10.05-18.37.21:706][606]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-18.37.21:732][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026322s)
+[2022.10.05-18.37.21:734][606]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.10.05-18.37.21:734][606]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F43869BE00), frame # 704606
+[2022.10.05-18.37.21:735][606]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F38E2B2700), frame # 704606
+[2022.10.05-18.37.21:736][606]LogPlayLevel: PIE: World Init took: (0.003095s)
+[2022.10.05-18.37.21:736][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.029802s)
+[2022.10.05-18.37.21:773][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.10.05-18.37.21:775][606]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-18.37.21:775][606]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-18.37.21:775][606]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-18.37.21:775][606]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-18.37.21:775][606]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-18.37.21:775][606]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.05-18.37.21:775][606]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-18.37.21:775][606]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-18.37.21:776][606]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.05-18.37.21:776][606]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.05-18.37.21:780][606]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-18.37.21:780][606]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-18.37.21:895][606]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.10.05-18.37.21:895][606]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-18.37.21:895][606]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-18.37.21:895][606]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-18.37.21:896][606]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.05-18.37.21:906][606]LogInit: FAudioDevice initialized.
+[2022.10.05-18.37.21:911][606]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.05-18.37.21:913][606]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.10.05-20.37.21
+[2022.10.05-18.37.21:913][606]LogWorld: Bringing up level for play took: 0.001667
+[2022.10.05-18.37.21:915][606]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2022.10.05-18.37.21:916][606]PIE: Server logged in
+[2022.10.05-18.37.21:917][606]PIE: Play in editor total start time 0,253 seconds.
+[2022.10.05-18.37.21:920][606]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.37.21:920][606]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.37.21:974][607]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.37.21:983][608]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.37.21:983][608]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.37.27:004][202]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.37.27:004][202]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.37.27:012][203]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.37.27:021][204]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.37.27:021][204]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.37.32:042][805]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.37.32:042][805]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.37.32:051][806]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.37.32:059][807]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.37.32:059][807]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.37.37:076][409]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.37.37:076][409]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.37.37:084][410]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.37.37:093][411]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.37.37:093][411]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.37.42:113][ 13]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.37.42:113][ 13]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.37.42:122][ 14]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.37.42:130][ 15]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.37.42:130][ 15]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.37.47:147][617]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.37.47:147][617]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.37.47:156][618]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.37.47:164][619]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.37.47:164][619]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.37.52:181][221]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.37.52:181][221]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.37.52:190][222]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.37.52:198][223]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.37.52:198][223]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.37.57:222][825]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.37.57:222][825]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.37.57:230][826]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.37.57:239][827]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.37.57:239][827]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.38.02:256][429]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.38.02:256][429]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.38.02:265][430]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.38.02:273][431]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.38.02:273][431]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.38.07:290][ 33]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.38.07:290][ 33]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.38.07:299][ 34]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.38.07:307][ 35]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.38.07:307][ 35]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.38.12:329][637]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.38.12:329][637]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.38.12:337][638]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.38.12:345][639]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.38.12:346][639]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.38.17:363][241]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.38.17:363][241]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.38.17:371][242]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.38.17:380][243]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.38.17:380][243]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.38.22:403][844]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.38.22:403][844]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.38.22:411][845]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.38.22:419][846]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.38.22:419][846]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.38.27:441][441]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.38.27:441][441]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.38.27:449][442]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.38.27:458][443]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.38.27:458][443]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.38.32:475][ 45]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.38.32:475][ 45]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.38.32:483][ 46]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.38.32:492][ 47]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.38.32:492][ 47]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.38.37:510][649]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.38.37:510][649]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.38.37:518][650]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.38.37:527][651]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.38.37:527][651]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.38.42:546][253]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.38.42:546][253]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.38.42:554][254]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.38.42:562][255]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.38.42:562][255]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.38.47:581][857]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.38.47:581][857]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.38.47:590][858]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.38.47:598][859]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.38.47:598][859]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.38.52:615][461]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.38.52:615][461]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.38.52:623][462]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.38.52:631][463]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.38.52:632][463]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.38.57:651][ 65]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.38.57:651][ 65]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.38.57:659][ 66]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.38.57:668][ 67]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.38.57:668][ 67]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.39.02:686][669]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.39.02:686][669]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.39.02:695][670]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.39.02:703][671]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.39.02:703][671]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.39.07:719][273]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.39.07:719][273]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.39.07:728][274]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.39.07:736][275]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.39.07:736][275]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.39.12:756][877]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.39.12:756][877]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.39.12:765][878]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.39.12:773][879]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.39.12:773][879]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.39.17:791][481]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.39.17:791][481]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.39.17:800][482]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.39.17:808][483]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.39.17:808][483]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.39.22:827][ 85]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.39.22:827][ 85]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.39.22:835][ 86]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.39.22:843][ 87]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.39.22:843][ 87]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.39.27:868][689]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.39.27:868][689]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.39.27:876][690]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.39.27:885][691]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.39.27:885][691]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.39.32:906][286]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.39.32:906][286]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.39.32:915][287]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.39.32:923][288]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.39.32:923][288]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.39.37:943][890]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.39.37:943][890]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.39.37:952][891]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.39.37:960][892]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.39.37:960][892]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.39.42:976][494]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.39.42:976][494]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.39.42:984][495]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.39.42:993][496]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.39.42:993][496]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.39.48:010][ 98]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.39.48:010][ 98]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.39.48:018][ 99]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.39.48:027][100]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.39.48:027][100]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.39.53:046][702]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.39.53:046][702]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.39.53:054][703]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.39.53:066][704]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.39.53:066][704]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.39.58:085][306]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.39.58:085][306]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.39.58:093][307]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.39.58:102][308]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.39.58:102][308]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.40.03:123][910]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.40.03:123][910]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.40.03:131][911]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.40.03:140][912]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.40.03:140][912]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.40.08:160][514]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.40.08:160][514]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.40.08:168][515]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.40.08:177][516]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.40.08:177][516]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.40.13:195][118]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.40.13:195][118]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.40.13:203][119]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.40.13:212][120]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.40.13:212][120]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.40.18:230][722]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.40.18:230][722]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.40.18:238][723]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.40.18:246][724]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.40.18:246][724]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.40.23:270][326]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.40.23:270][326]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.40.23:278][327]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.40.23:287][328]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.40.23:287][328]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.40.28:304][930]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.40.28:304][930]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.40.28:312][931]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.40.28:321][932]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.40.28:321][932]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.40.33:341][527]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.40.33:341][527]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.40.33:350][528]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.40.33:358][529]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.40.33:358][529]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.40.38:377][131]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.40.38:377][131]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.40.38:385][132]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.40.38:394][133]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.40.38:394][133]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.40.43:418][735]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.40.43:418][735]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.40.43:426][736]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.40.43:435][737]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.40.43:435][737]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.40.48:452][339]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.40.48:452][339]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.40.48:460][340]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.40.48:469][341]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.40.48:469][341]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.40.53:492][943]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.40.53:492][943]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.40.53:500][944]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.40.53:509][945]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.40.53:509][945]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.40.58:526][547]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.40.58:526][547]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.40.58:534][548]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.40.58:542][549]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.40.58:542][549]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.41.03:561][151]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.41.03:561][151]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.41.03:570][152]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.41.03:578][153]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.41.03:578][153]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.41.08:599][755]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.41.08:599][755]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.41.08:607][756]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.41.08:616][757]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.41.08:616][757]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.41.13:633][359]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.41.13:633][359]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.41.13:642][360]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.41.13:650][361]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.41.13:650][361]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.41.18:668][963]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.41.18:668][963]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.41.18:676][964]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.41.18:684][965]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.41.18:684][965]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.41.23:708][567]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.41.23:709][567]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.41.23:717][568]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.41.23:725][569]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.41.23:725][569]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.41.28:742][171]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.41.28:742][171]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.41.28:750][172]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.41.28:759][173]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.41.28:759][173]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.41.33:783][768]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.41.33:783][768]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.41.33:792][769]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.41.33:800][770]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.41.33:800][770]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.41.38:821][372]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.41.38:821][372]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.41.38:830][373]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.41.38:838][374]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.41.38:838][374]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.41.43:857][976]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.41.43:857][976]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.41.43:865][977]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.41.43:873][978]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.41.43:874][978]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.41.48:894][580]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.41.48:894][580]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.41.48:903][581]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.41.48:911][582]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.41.48:911][582]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.41.53:930][184]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.41.53:930][184]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.41.53:939][185]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.41.53:947][186]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.41.53:947][186]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.41.58:964][788]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.41.58:964][788]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.41.58:972][789]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.41.58:981][790]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.41.58:981][790]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.42.03:999][392]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.42.03:999][392]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.42.04:008][393]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.42.04:016][394]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.42.04:016][394]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.42.09:036][996]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.42.09:036][996]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.42.09:044][997]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.42.09:053][998]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.42.09:053][998]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.42.14:071][600]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.42.14:071][600]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.42.14:079][601]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.42.14:087][602]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.42.14:087][602]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.42.19:104][204]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.42.19:104][204]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.42.19:113][205]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.42.19:121][206]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.42.19:121][206]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.42.24:143][807]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.42.24:143][807]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.42.24:151][808]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.42.24:159][809]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.42.24:159][809]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.42.29:176][411]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.42.29:176][411]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.42.29:185][412]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.42.29:193][413]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.42.29:193][413]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.42.34:215][  8]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.42.34:215][  8]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.42.34:223][  9]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.42.34:232][ 10]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.42.34:232][ 10]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.42.36:302][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.42.36:302][249]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-18.42.36:302][249]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.42.36:302][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.42.36:318][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-18.42.36:322][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.42.36:365][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.42.36:366][249]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F38E2B2700), frame # 742249
+[2022.10.05-18.42.36:366][249]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F43869BE00), frame # 742249
+[2022.10.05-18.42.36:369][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.10.05-18.42.36:390][250]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2022.10.05-18.42.37:723][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2022.10.05-18.42.39:536][594]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.05-18.42.39:547][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.05-18.42.39:547][594]PIE: New page: PIE session: ThirdPersonExampleMap (5 okt. 2022 22:42:39)
+[2022.10.05-18.42.39:547][594]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-18.42.39:556][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008944s)
+[2022.10.05-18.42.39:557][594]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.10.05-18.42.39:557][594]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F402F62600), frame # 742594
+[2022.10.05-18.42.39:557][594]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F434778680), frame # 742594
+[2022.10.05-18.42.39:557][594]LogPlayLevel: PIE: World Init took: (0.001289s)
+[2022.10.05-18.42.39:557][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010364s)
+[2022.10.05-18.42.39:589][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.10.05-18.42.39:591][594]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-18.42.39:591][594]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-18.42.39:591][594]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-18.42.39:591][594]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-18.42.39:591][594]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-18.42.39:591][594]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.05-18.42.39:591][594]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-18.42.39:591][594]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-18.42.39:591][594]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.05-18.42.39:591][594]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.05-18.42.39:596][594]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-18.42.39:596][594]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-18.42.39:731][594]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.10.05-18.42.39:731][594]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-18.42.39:731][594]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-18.42.39:731][594]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-18.42.39:731][594]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.05-18.42.39:740][594]LogInit: FAudioDevice initialized.
+[2022.10.05-18.42.39:746][594]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.05-18.42.39:748][594]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.10.05-20.42.39
+[2022.10.05-18.42.39:749][594]LogWorld: Bringing up level for play took: 0.001652
+[2022.10.05-18.42.39:749][594]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2022.10.05-18.42.39:751][594]PIE: Server logged in
+[2022.10.05-18.42.39:752][594]PIE: Play in editor total start time 0,207 seconds.
+[2022.10.05-18.42.39:753][594]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.42.39:753][594]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.42.39:818][595]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.42.39:824][596]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.42.39:825][596]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.42.44:843][198]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.42.44:843][198]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.42.44:851][199]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.42.44:860][200]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.42.44:860][200]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.42.45:781][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.42.45:781][306]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-18.42.45:782][306]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.42.45:782][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.42.45:788][306]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-18.42.45:792][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.42.45:835][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.42.45:835][306]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F434778680), frame # 743306
+[2022.10.05-18.42.45:835][306]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F402F62600), frame # 743306
+[2022.10.05-18.42.45:838][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.10.05-18.42.45:859][307]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2022.10.05-18.42.48:396][589]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor2)
+[2022.10.05-18.42.57:791][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.10.05-18.42.57:825][700]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/ThirdPersonExampleMap3535C55D49F028341EF009B472BDF8A5.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.10.05-18.42.57:911][700]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/ThirdPersonExampleMap_BuiltData5BB9BF6247B82E3E9424A7BA90129B1C.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.10.05-18.42.57:931][700]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.05-18.42.57:931][700]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.10.05-18.42.57:931][700]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.10.05-18.42.59:923][916]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.05-18.42.59:934][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.05-18.42.59:934][916]PIE: New page: PIE session: ThirdPersonExampleMap (5 okt. 2022 22:42:59)
+[2022.10.05-18.42.59:968][916]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-18.42.59:979][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010981s)
+[2022.10.05-18.42.59:980][916]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.10.05-18.42.59:980][916]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F45E412600), frame # 744916
+[2022.10.05-18.42.59:980][916]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F413C70CC0), frame # 744916
+[2022.10.05-18.42.59:981][916]LogPlayLevel: PIE: World Init took: (0.001358s)
+[2022.10.05-18.42.59:981][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012542s)
+[2022.10.05-18.43.00:022][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.10.05-18.43.00:024][916]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-18.43.00:024][916]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-18.43.00:024][916]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-18.43.00:024][916]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-18.43.00:024][916]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-18.43.00:024][916]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.05-18.43.00:024][916]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-18.43.00:024][916]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-18.43.00:024][916]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.05-18.43.00:024][916]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.05-18.43.00:029][916]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-18.43.00:029][916]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-18.43.00:129][916]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.10.05-18.43.00:129][916]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-18.43.00:129][916]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-18.43.00:129][916]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-18.43.00:129][916]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.05-18.43.00:139][916]LogInit: FAudioDevice initialized.
+[2022.10.05-18.43.00:144][916]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.05-18.43.00:146][916]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.10.05-20.43.00
+[2022.10.05-18.43.00:147][916]LogWorld: Bringing up level for play took: 0.002099
+[2022.10.05-18.43.00:147][916]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2022.10.05-18.43.00:150][916]PIE: Server logged in
+[2022.10.05-18.43.00:151][916]PIE: Play in editor total start time 0,219 seconds.
+[2022.10.05-18.43.00:152][916]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.43.00:152][916]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.43.00:235][917]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.43.00:243][918]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.43.00:243][918]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.43.03:903][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.43.03:903][342]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-18.43.03:903][342]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.43.03:903][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.43.03:915][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-18.43.03:919][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.43.03:962][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.43.03:963][342]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F413C70CC0), frame # 745342
+[2022.10.05-18.43.03:963][342]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F45E412600), frame # 745342
+[2022.10.05-18.43.03:965][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.10.05-18.43.03:985][343]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.10.05-18.43.22:464][454]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.10.05-18.43.22:489][454]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/ThirdPersonExampleMap21AFC9EE46D4B0CDA86E89A3F42DF480.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.10.05-18.43.22:566][454]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/ThirdPersonExampleMap_BuiltDataD685518D454CB7419269C2B633AC17D1.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.10.05-18.43.22:582][454]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.05-18.43.22:582][454]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.10.05-18.43.22:583][454]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.10.05-18.43.23:933][610]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor3)
+[2022.10.05-18.43.31:752][538]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor)
+[2022.10.05-18.43.40:608][592]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.05-18.43.40:619][592]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.05-18.43.40:619][592]PIE: New page: PIE session: ThirdPersonExampleMap (5 okt. 2022 22:43:40)
+[2022.10.05-18.43.40:619][592]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-18.43.40:628][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009015s)
+[2022.10.05-18.43.40:629][592]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.10.05-18.43.40:629][592]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F41A58FE00), frame # 749592
+[2022.10.05-18.43.40:629][592]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F43FA83B00), frame # 749592
+[2022.10.05-18.43.40:629][592]LogPlayLevel: PIE: World Init took: (0.001325s)
+[2022.10.05-18.43.40:629][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010451s)
+[2022.10.05-18.43.40:660][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.10.05-18.43.40:662][592]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-18.43.40:662][592]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-18.43.40:662][592]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-18.43.40:662][592]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-18.43.40:662][592]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-18.43.40:662][592]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.05-18.43.40:662][592]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-18.43.40:662][592]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-18.43.40:662][592]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.05-18.43.40:662][592]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.05-18.43.40:666][592]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-18.43.40:666][592]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-18.43.40:780][592]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.10.05-18.43.40:780][592]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-18.43.40:780][592]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-18.43.40:780][592]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-18.43.40:780][592]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.05-18.43.40:790][592]LogInit: FAudioDevice initialized.
+[2022.10.05-18.43.40:799][592]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.05-18.43.40:802][592]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.10.05-20.43.40
+[2022.10.05-18.43.40:802][592]LogWorld: Bringing up level for play took: 0.001602
+[2022.10.05-18.43.40:802][592]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2022.10.05-18.43.40:805][592]PIE: Server logged in
+[2022.10.05-18.43.40:805][592]PIE: Play in editor total start time 0,189 seconds.
+[2022.10.05-18.43.40:807][592]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.43.40:807][592]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.43.40:877][593]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.43.40:884][594]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.43.40:884][594]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.43.45:900][196]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.43.45:901][196]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-18.43.45:909][197]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.43.45:917][198]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.43.45:917][198]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.43.48:795][540]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.43.48:795][540]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-18.43.48:795][540]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.43.48:795][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.43.48:812][540]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-18.43.48:820][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.43.48:875][540]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.43.48:875][540]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F43FA83B00), frame # 750540
+[2022.10.05-18.43.48:875][540]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F41A58FE00), frame # 750540
+[2022.10.05-18.43.48:878][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.10.05-18.43.48:901][541]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2022.10.05-18.43.50:732][754]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor)
+[2022.10.05-18.44.01:528][ 33]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.05-18.44.01:539][ 33]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.05-18.44.01:539][ 33]PIE: New page: PIE session: ThirdPersonExampleMap (5 okt. 2022 22:44:01)
+[2022.10.05-18.44.01:539][ 33]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-18.44.01:549][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009810s)
+[2022.10.05-18.44.01:550][ 33]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.10.05-18.44.01:550][ 33]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F472491800), frame # 752033
+[2022.10.05-18.44.01:550][ 33]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F40D18CCC0), frame # 752033
+[2022.10.05-18.44.01:550][ 33]LogPlayLevel: PIE: World Init took: (0.001085s)
+[2022.10.05-18.44.01:550][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011020s)
+[2022.10.05-18.44.01:584][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.10.05-18.44.01:586][ 33]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-18.44.01:586][ 33]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-18.44.01:586][ 33]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-18.44.01:586][ 33]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-18.44.01:586][ 33]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-18.44.01:586][ 33]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.05-18.44.01:586][ 33]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-18.44.01:586][ 33]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-18.44.01:586][ 33]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.05-18.44.01:586][ 33]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.05-18.44.01:590][ 33]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-18.44.01:590][ 33]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-18.44.01:684][ 33]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.10.05-18.44.01:684][ 33]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-18.44.01:684][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-18.44.01:685][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-18.44.01:685][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.05-18.44.01:694][ 33]LogInit: FAudioDevice initialized.
+[2022.10.05-18.44.01:700][ 33]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.05-18.44.01:702][ 33]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.10.05-20.44.01
+[2022.10.05-18.44.01:702][ 33]LogWorld: Bringing up level for play took: 0.001684
+[2022.10.05-18.44.01:702][ 33]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2022.10.05-18.44.01:705][ 33]PIE: Server logged in
+[2022.10.05-18.44.01:705][ 33]PIE: Play in editor total start time 0,168 seconds.
+[2022.10.05-18.44.01:707][ 33]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.44.01:707][ 33]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-18.44.01:774][ 34]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.44.01:781][ 35]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.44.01:781][ 35]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.44.06:801][637]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.44.06:801][637]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-18.44.06:810][638]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.44.06:818][639]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.44.06:818][639]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.44.07:741][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.44.07:741][744]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-18.44.07:742][744]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.44.07:743][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.44.07:757][744]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-18.44.07:764][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.44.07:814][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.44.07:815][744]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F40D18CCC0), frame # 752744
+[2022.10.05-18.44.07:815][744]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F472491800), frame # 752744
+[2022.10.05-18.44.07:818][744]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.10.05-18.44.07:840][745]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2022.10.05-18.44.08:977][875]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor)
+[2022.10.05-18.44.13:119][348]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.10.05-18.44.13:144][348]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/ThirdPersonExampleMapC5DF7646450624172220E8B783083F57.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.10.05-18.44.13:221][348]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/ThirdPersonExampleMap_BuiltData2D4D9D1647211771E054A3BE3EEDA46E.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.10.05-18.44.13:237][348]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.05-18.44.13:237][348]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.10.05-18.44.13:237][348]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.10.05-18.44.15:419][578]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.05-18.44.15:430][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.05-18.44.15:430][578]PIE: New page: PIE session: ThirdPersonExampleMap (5 okt. 2022 22:44:15)
+[2022.10.05-18.44.15:470][578]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-18.44.15:487][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016667s)
+[2022.10.05-18.44.15:488][578]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.10.05-18.44.15:488][578]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F44DCC1200), frame # 753578
+[2022.10.05-18.44.15:488][578]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F452A48180), frame # 753578
+[2022.10.05-18.44.15:488][578]LogPlayLevel: PIE: World Init took: (0.001342s)
+[2022.10.05-18.44.15:488][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018313s)
+[2022.10.05-18.44.15:521][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.10.05-18.44.15:522][578]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-18.44.15:522][578]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-18.44.15:522][578]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-18.44.15:522][578]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-18.44.15:522][578]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-18.44.15:522][578]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.05-18.44.15:522][578]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-18.44.15:522][578]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-18.44.15:523][578]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.05-18.44.15:523][578]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.05-18.44.15:527][578]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-18.44.15:527][578]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-18.44.15:640][578]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.10.05-18.44.15:640][578]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-18.44.15:640][578]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-18.44.15:640][578]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-18.44.15:641][578]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.05-18.44.15:651][578]LogInit: FAudioDevice initialized.
+[2022.10.05-18.44.15:658][578]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.05-18.44.15:661][578]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.10.05-20.44.15
+[2022.10.05-18.44.15:661][578]LogWorld: Bringing up level for play took: 0.001896
+[2022.10.05-18.44.15:661][578]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2022.10.05-18.44.15:664][578]PIE: Server logged in
+[2022.10.05-18.44.15:664][578]PIE: Play in editor total start time 0,236 seconds.
+[2022.10.05-18.44.15:666][578]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.44.15:666][578]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-18.44.15:719][579]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.44.15:728][580]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.44.15:728][580]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.44.20:749][182]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.44.20:749][182]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-18.44.20:758][183]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.44.20:767][184]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.44.20:767][184]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.44.25:790][786]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.44.25:790][786]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-18.44.25:799][787]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.44.25:807][788]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.44.25:807][788]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.44.30:824][390]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-18.44.30:824][390]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-18.44.30:832][391]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-18.44.30:840][392]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-18.44.30:840][392]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-18.44.34:669][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.44.34:670][846]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-18.44.34:670][846]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.44.34:671][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.44.34:683][846]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-18.44.34:689][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.44.34:745][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.44.34:746][846]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F452A48180), frame # 755846
+[2022.10.05-18.44.34:746][846]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F44DCC1200), frame # 755846
+[2022.10.05-18.44.34:748][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.10.05-18.44.34:771][847]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2022.10.05-18.46.28:080][902]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/NPC/FindAndGoToPlant_byActor.FindAndGoToPlant_byActor
+[2022.10.05-18.46.34:907][648]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/NPC/FindAndGoToPlant_byLocation.FindAndGoToPlant_byLocation
+[2022.10.05-18.46.52:181][585]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.10.05-18.46.52:194][585]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/AI/NPC/FindPlantLocation_4.
+[2022.10.05-18.46.56:284][974]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/NPC/FindPlantLocation_4.FindPlantLocation_4
+[2022.10.05-18.47.03:206][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.10.05-18.47.03:218][691]LogMetaData: Removing '/Game/AI/NPC/FixPlant.SKEL_FixPlant_C' ref from Metadata '/Game/AI/NPC/FindPlantLocation_4.PackageMetaData'
+[2022.10.05-18.47.03:218][691]LogMetaData: Removing '/Game/AI/NPC/FixPlant.FixPlant_C' ref from Metadata '/Game/AI/NPC/FindPlantLocation_4.PackageMetaData'
+[2022.10.05-18.47.03:258][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/FixPlant" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/NPC/FixPlant.uasset" SILENT=true
+[2022.10.05-18.47.03:271][691]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/FixPlantD63FE23647D5276A1F19358F3912E38A.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/NPC/FixPlant.uasset'
+[2022.10.05-18.47.03:466][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.10.05-18.47.03:507][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.10.05-18.47.03:541][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.10.05-18.47.03:584][691]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/NPC/FixPlant.
+[2022.10.05-18.47.03:591][691]AssetCheck: New page: Asset Save: FixPlant
+[2022.10.05-18.47.03:591][691]LogContentValidation: Display: Validating Blueprint /Game/AI/NPC/FixPlant.FixPlant
+[2022.10.05-18.59.23:046][485]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.10.05-18.59.23:048][485]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.046
+[2022.10.05-18.59.23:049][485]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/NPC/NPC_BT] ([1] browsable assets)...
+[2022.10.05-18.59.23:049][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/NPC/NPC_BT]
+[2022.10.05-18.59.23:060][485]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/NPC_BT_Auto77F7922F74F3A67912F3308BD37B0FD3B.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/Autosaves/Game/AI/NPC/NPC_BT_Auto7.uasset'
+[2022.10.05-18.59.23:062][485]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/NPC/SelectRandPlant] ([1] browsable assets)...
+[2022.10.05-18.59.23:062][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/NPC/SelectRandPlant]
+[2022.10.05-18.59.23:081][485]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/SelectRandPlant_Auto7C3EDCE7D425700354E4190B4F618E0E6.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/Autosaves/Game/AI/NPC/SelectRandPlant_Auto7.uasset'
+[2022.10.05-18.59.23:082][485]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/NPC/FixPlant] ([1] browsable assets)...
+[2022.10.05-18.59.23:082][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/NPC/FixPlant]
+[2022.10.05-18.59.23:097][485]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/FixPlant_Auto7D01B39C1425F8220212C73B68191B8A6.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/Autosaves/Game/AI/NPC/FixPlant_Auto7.uasset'
+[2022.10.05-18.59.23:098][485]LogFileHelpers: Auto-saving content packages took 0.050
+[2022.10.05-19.05.00:752][ 38]BlueprintLog: New page: Compile FixPlant
+[2022.10.05-19.05.00:754][ 38]LogBlueprint: Warning: [Compiler FixPlant] Could not find a variable named "Health" in 'FixPlant_C'.
+Make sure 'FixPlant_C' has been compiled for  Set Health
+[2022.10.05-19.05.00:754][ 38]LogBlueprint: Error: [Compiler FixPlant] The property associated with  Health  could not be found in '/Game/AI/NPC/FixPlant.FixPlant_C'
+[2022.10.05-19.05.00:795][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.10.05-19.05.37:304][362]LogEditorViewport: Clicking on Actor (LMB): PlantActor_C (PlantActor2)
+[2022.10.05-19.09.26:398][781]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.10.05-19.09.26:408][781]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.052
+[2022.10.05-19.09.26:409][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/NPC/FixPlant] ([1] browsable assets)...
+[2022.10.05-19.09.26:409][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/NPC/FixPlant]
+[2022.10.05-19.09.26:422][781]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/FixPlant_Auto8656A69CA47A4EA816D8D3CB75B9070A0.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/Autosaves/Game/AI/NPC/FixPlant_Auto8.uasset'
+[2022.10.05-19.09.26:424][781]LogFileHelpers: Auto-saving content packages took 0.015
+[2022.10.05-19.13.10:559][  9]BlueprintLog: New page: Compile FixPlant
+[2022.10.05-19.13.10:601][  9]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.10.05-19.13.47:663][846]LogEditorTransaction: Undo Delete current selection
+[2022.10.05-19.14.00:111][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/FixPlant" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/NPC/FixPlant.uasset" SILENT=true
+[2022.10.05-19.14.00:125][115]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/FixPlant90A33C4B41F1D0B3031A04A705FE608F.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/NPC/FixPlant.uasset'
+[2022.10.05-19.14.00:148][115]AssetCheck: New page: Asset Save: FixPlant
+[2022.10.05-19.14.00:148][115]LogContentValidation: Display: Validating Blueprint /Game/AI/NPC/FixPlant.FixPlant
+[2022.10.05-19.14.02:881][397]BlueprintLog: New page: Compile FixPlant
+[2022.10.05-19.14.02:882][397]LogBlueprint: Warning: [Compiler FixPlant] Could not find a variable named "Health" in 'FixPlant_C'.
+Make sure 'FixPlant_C' has been compiled for  Set Health
+[2022.10.05-19.14.02:882][397]LogBlueprint: Error: [Compiler FixPlant] The property associated with  Health  could not be found in '/Game/AI/NPC/FixPlant.FixPlant_C'
+[2022.10.05-19.14.02:921][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.10.05-19.14.48:840][944]BlueprintLog: New page: Compile FixPlant
+[2022.10.05-19.14.48:842][944]LogBlueprint: Warning: [Compiler FixPlant] Could not find a variable named "Health" in 'FixPlant_C'.
+Make sure 'FixPlant_C' has been compiled for  Set Health
+[2022.10.05-19.14.48:842][944]LogBlueprint: Error: [Compiler FixPlant] The property associated with  Health  could not be found in '/Game/AI/NPC/FixPlant.FixPlant_C'
+[2022.10.05-19.14.48:879][944]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.10.05-19.14.55:384][598]BlueprintLog: New page: Compile FixPlant
+[2022.10.05-19.14.55:385][598]LogBlueprint: Warning: [Compiler FixPlant] Could not find a variable named "Health" in 'FixPlant_C'.
+Make sure 'FixPlant_C' has been compiled for  Set Health
+[2022.10.05-19.14.55:385][598]LogBlueprint: Error: [Compiler FixPlant] The property associated with  Health  could not be found in '/Game/AI/NPC/FixPlant.FixPlant_C'
+[2022.10.05-19.14.55:421][598]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.10.05-19.19.11:983][448]BlueprintLog: New page: Compile FixPlant
+[2022.10.05-19.19.12:027][448]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.10.05-19.19.21:512][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/FixPlant" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/NPC/FixPlant.uasset" SILENT=true
+[2022.10.05-19.19.21:526][430]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/FixPlant1EA83FAF4192F0025E280E95E883FC8E.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/NPC/FixPlant.uasset'
+[2022.10.05-19.19.21:539][430]AssetCheck: New page: Asset Save: FixPlant
+[2022.10.05-19.19.21:539][430]LogContentValidation: Display: Validating Blueprint /Game/AI/NPC/FixPlant.FixPlant
+[2022.10.05-19.19.28:082][992]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.10.05-19.19.28:099][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/NPC_BT" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/NPC/NPC_BT.uasset" SILENT=true
+[2022.10.05-19.19.28:110][992]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/NPC_BT831DBD0A42250215C4294599EEB06FB4.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/NPC/NPC_BT.uasset'
+[2022.10.05-19.19.28:112][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/SelectRandPlant" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/NPC/SelectRandPlant.uasset" SILENT=true
+[2022.10.05-19.19.28:129][992]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/SelectRandPlantCD0BAC46406ADB9019A6FEB7C2EB3F57.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/NPC/SelectRandPlant.uasset'
+[2022.10.05-19.19.28:146][992]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.05-19.19.28:146][992]LogContentValidation: Display: Validating BehaviorTree /Game/AI/NPC/NPC_BT.NPC_BT
+[2022.10.05-19.19.28:146][992]LogContentValidation: Display: Validating Blueprint /Game/AI/NPC/SelectRandPlant.SelectRandPlant
+[2022.10.05-19.20.03:594][497]BlueprintLog: New page: Compile FixPlant
+[2022.10.05-19.20.03:651][497]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.10.05-19.20.04:651][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/FixPlant" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/NPC/FixPlant.uasset" SILENT=true
+[2022.10.05-19.20.04:669][591]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/FixPlantB691238B43C2B5D86954A48197A2C2DF.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/NPC/FixPlant.uasset'
+[2022.10.05-19.20.04:684][591]AssetCheck: New page: Asset Save: FixPlant
+[2022.10.05-19.20.04:684][591]LogContentValidation: Display: Validating Blueprint /Game/AI/NPC/FixPlant.FixPlant
+[2022.10.05-19.20.27:258][923]BlueprintLog: New page: Compile FixPlant
+[2022.10.05-19.20.27:314][923]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.10.05-19.20.38:790][ 37]BlueprintLog: New page: Compile FixPlant
+[2022.10.05-19.20.38:846][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.10.05-19.20.45:669][530]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.10.05-19.20.45:701][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/NPC_BT" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/NPC/NPC_BT.uasset" SILENT=true
+[2022.10.05-19.20.45:712][530]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/NPC_BT61522E004B60D0C1AA7718BC9170BC3B.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/NPC/NPC_BT.uasset'
+[2022.10.05-19.20.45:713][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/FixPlant" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/NPC/FixPlant.uasset" SILENT=true
+[2022.10.05-19.20.45:726][530]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/FixPlantF873F3524CDE7C29D65B039F9C18FBFF.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/NPC/FixPlant.uasset'
+[2022.10.05-19.20.45:742][530]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.05-19.20.45:742][530]LogContentValidation: Display: Validating BehaviorTree /Game/AI/NPC/NPC_BT.NPC_BT
+[2022.10.05-19.20.45:742][530]LogContentValidation: Display: Validating Blueprint /Game/AI/NPC/FixPlant.FixPlant
+[2022.10.05-19.20.47:518][681]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.05-19.20.47:529][681]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.05-19.20.47:529][681]LogPlayLevel: [PlayLevel] Compiling SelectRandPlant before play...
+[2022.10.05-19.20.47:597][681]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.10.05-19.20.47:598][681]LogPlayLevel: PlayLevel: Blueprint regeneration took 69 ms (1 blueprints)
+[2022.10.05-19.20.47:598][681]PIE: New page: PIE session: ThirdPersonExampleMap (5 okt. 2022 23:20:47)
+[2022.10.05-19.20.47:599][681]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-19.20.47:610][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011324s)
+[2022.10.05-19.20.47:611][681]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.10.05-19.20.47:611][681]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F44C28C400), frame # 928681
+[2022.10.05-19.20.47:611][681]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F3FCEEDBC0), frame # 928681
+[2022.10.05-19.20.47:611][681]LogPlayLevel: PIE: World Init took: (0.001084s)
+[2022.10.05-19.20.47:611][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012547s)
+[2022.10.05-19.20.47:652][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.10.05-19.20.47:653][681]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-19.20.47:653][681]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-19.20.47:653][681]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-19.20.47:653][681]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-19.20.47:653][681]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-19.20.47:653][681]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.05-19.20.47:653][681]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-19.20.47:653][681]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-19.20.47:654][681]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.05-19.20.47:654][681]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.05-19.20.47:658][681]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-19.20.47:658][681]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-19.20.47:786][681]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.10.05-19.20.47:786][681]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-19.20.47:786][681]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-19.20.47:786][681]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-19.20.47:787][681]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.05-19.20.47:797][681]LogInit: FAudioDevice initialized.
+[2022.10.05-19.20.47:805][681]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.05-19.20.47:808][681]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.10.05-21.20.47
+[2022.10.05-19.20.47:808][681]LogWorld: Bringing up level for play took: 0.001935
+[2022.10.05-19.20.47:808][681]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2022.10.05-19.20.47:811][681]PIE: Server logged in
+[2022.10.05-19.20.47:811][681]PIE: Play in editor total start time 0,286 seconds.
+[2022.10.05-19.20.47:813][681]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.20.47:813][681]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.20.47:869][682]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.20.47:884][683]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.20.47:884][683]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.20.49:903][880]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.20.49:923][882]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.20.49:923][882]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.20.49:933][883]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.20.49:943][884]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.20.49:943][884]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.20.51:957][ 85]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.20.51:978][ 87]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.20.51:978][ 87]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.20.51:988][ 88]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.20.51:997][ 89]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.20.51:997][ 89]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.20.54:017][291]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.20.54:037][293]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.20.54:037][293]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.20.54:047][294]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.20.54:057][295]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.20.54:057][295]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.20.56:076][496]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.20.56:096][498]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.20.56:096][498]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-19.20.56:107][499]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.20.56:116][500]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.20.56:117][500]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.20.58:134][702]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.20.58:154][704]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.20.58:154][704]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.20.58:164][705]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.20.58:174][706]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.20.58:174][706]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.21.00:191][900]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.21.00:210][902]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.21.00:210][902]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-19.21.00:220][903]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.21.00:230][904]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.21.00:230][904]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.21.02:241][ 97]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.21.02:261][ 99]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.21.02:261][ 99]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.21.02:271][100]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.21.02:281][101]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.21.02:281][101]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.21.04:297][293]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.21.04:317][295]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.21.04:317][295]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-19.21.04:327][296]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.21.04:337][297]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.21.04:338][297]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.21.06:348][496]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.21.06:368][498]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.21.06:368][498]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.21.06:377][499]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.21.06:387][500]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.21.06:387][500]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.21.08:398][698]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.21.08:418][700]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.21.08:419][700]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.21.08:429][701]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.21.08:439][702]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.21.08:439][702]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.21.10:457][902]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.21.10:477][904]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.21.10:477][904]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.21.10:487][905]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.21.10:498][906]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.21.10:498][906]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.21.12:509][106]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.21.12:529][108]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.21.12:529][108]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.21.12:540][109]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.21.12:550][110]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.21.12:551][110]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.21.13:835][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-19.21.13:835][234]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-19.21.13:836][234]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-19.21.13:837][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-19.21.13:855][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-19.21.13:859][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-19.21.13:903][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-19.21.13:920][234]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F3FCEEDBC0), frame # 931234
+[2022.10.05-19.21.13:920][234]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F44C28C400), frame # 931234
+[2022.10.05-19.21.13:923][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.10.05-19.21.13:951][235]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2022.10.05-19.21.23:789][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/NPC_BT" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/NPC/NPC_BT.uasset" SILENT=true
+[2022.10.05-19.21.23:805][343]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/NPC_BT4169EF49449969C31C07188638AC7FC2.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/NPC/NPC_BT.uasset'
+[2022.10.05-19.21.23:818][343]AssetCheck: New page: Asset Save: NPC_BT
+[2022.10.05-19.21.23:818][343]LogContentValidation: Display: Validating BehaviorTree /Game/AI/NPC/NPC_BT.NPC_BT
+[2022.10.05-19.21.25:829][569]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.05-19.21.25:839][569]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.05-19.21.25:839][569]PIE: New page: PIE session: ThirdPersonExampleMap (5 okt. 2022 23:21:25)
+[2022.10.05-19.21.25:839][569]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-19.21.25:848][569]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008786s)
+[2022.10.05-19.21.25:849][569]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.10.05-19.21.25:849][569]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F45D037E00), frame # 932569
+[2022.10.05-19.21.25:849][569]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F4027BA340), frame # 932569
+[2022.10.05-19.21.25:849][569]LogPlayLevel: PIE: World Init took: (0.001081s)
+[2022.10.05-19.21.25:850][569]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010024s)
+[2022.10.05-19.21.25:887][569]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.10.05-19.21.25:890][569]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-19.21.25:890][569]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-19.21.25:890][569]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-19.21.25:890][569]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-19.21.25:890][569]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-19.21.25:890][569]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.05-19.21.25:890][569]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-19.21.25:890][569]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-19.21.25:891][569]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.05-19.21.25:891][569]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.05-19.21.25:895][569]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-19.21.25:895][569]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-19.21.25:993][569]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.10.05-19.21.25:993][569]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-19.21.25:993][569]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-19.21.25:993][569]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-19.21.25:994][569]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.05-19.21.26:004][569]LogInit: FAudioDevice initialized.
+[2022.10.05-19.21.26:011][569]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.05-19.21.26:013][569]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.10.05-21.21.26
+[2022.10.05-19.21.26:014][569]LogWorld: Bringing up level for play took: 0.001756
+[2022.10.05-19.21.26:014][569]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2022.10.05-19.21.26:016][569]PIE: Server logged in
+[2022.10.05-19.21.26:017][569]PIE: Play in editor total start time 0,181 seconds.
+[2022.10.05-19.21.26:019][569]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.21.26:019][569]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.21.26:083][570]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.21.26:092][571]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.21.26:092][571]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.21.28:104][812]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.21.33:128][414]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.21.33:128][414]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-19.21.33:137][415]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.21.33:145][416]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.21.33:145][416]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.21.35:155][657]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.21.40:175][257]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.21.40:175][257]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.21.40:184][258]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.21.40:192][259]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.21.40:192][259]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.21.42:202][500]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.21.47:221][102]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.21.47:221][102]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.21.47:230][103]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.21.47:238][104]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.21.47:238][104]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.21.49:248][345]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.21.51:185][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-19.21.51:187][572]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-19.21.51:187][572]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-19.21.51:187][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-19.21.51:203][572]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-19.21.51:211][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-19.21.51:267][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-19.21.51:267][572]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F4027BA340), frame # 935572
+[2022.10.05-19.21.51:267][572]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F45D037E00), frame # 935572
+[2022.10.05-19.21.51:270][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.10.05-19.21.51:300][573]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2022.10.05-19.22.05:348][122]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.10.05-19.22.05:365][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/NPC_BT" FILE="../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/NPC/NPC_BT.uasset" SILENT=true
+[2022.10.05-19.22.05:375][122]LogSavePackage: Moving '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Saved/NPC_BTCD1EDCFD4FB2757B31828E87091271A7.tmp' to '../../../../../../Users/johfo532/Documents/GitHub/Gardengame/GardenGame2/Content/AI/NPC/NPC_BT.uasset'
+[2022.10.05-19.22.05:388][122]AssetCheck: New page: Asset Save: NPC_BT
+[2022.10.05-19.22.05:388][122]LogContentValidation: Display: Validating BehaviorTree /Game/AI/NPC/NPC_BT.NPC_BT
+[2022.10.05-19.22.06:569][246]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.05-19.22.06:579][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.05-19.22.06:579][246]PIE: New page: PIE session: ThirdPersonExampleMap (5 okt. 2022 23:22:06)
+[2022.10.05-19.22.06:607][246]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-19.22.06:617][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010526s)
+[2022.10.05-19.22.06:617][246]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.10.05-19.22.06:617][246]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F427F7E400), frame # 937246
+[2022.10.05-19.22.06:618][246]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F4A666E200), frame # 937246
+[2022.10.05-19.22.06:618][246]LogPlayLevel: PIE: World Init took: (0.001140s)
+[2022.10.05-19.22.06:618][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011817s)
+[2022.10.05-19.22.06:657][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.10.05-19.22.06:659][246]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-19.22.06:659][246]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-19.22.06:659][246]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-19.22.06:659][246]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-19.22.06:659][246]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-19.22.06:659][246]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.05-19.22.06:659][246]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-19.22.06:659][246]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-19.22.06:659][246]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.05-19.22.06:659][246]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.05-19.22.06:663][246]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-19.22.06:663][246]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-19.22.06:788][246]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.10.05-19.22.06:788][246]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-19.22.06:788][246]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-19.22.06:788][246]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-19.22.06:788][246]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.05-19.22.06:798][246]LogInit: FAudioDevice initialized.
+[2022.10.05-19.22.06:807][246]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.05-19.22.06:809][246]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.10.05-21.22.06
+[2022.10.05-19.22.06:809][246]LogWorld: Bringing up level for play took: 0.001658
+[2022.10.05-19.22.06:809][246]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2022.10.05-19.22.06:812][246]PIE: Server logged in
+[2022.10.05-19.22.06:812][246]PIE: Play in editor total start time 0,235 seconds.
+[2022.10.05-19.22.06:814][246]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.22.06:814][246]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.22.06:875][247]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.22.06:885][248]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.22.06:885][248]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.22.08:897][488]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.22.08:913][490]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.22.08:913][490]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.22.08:921][491]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.22.08:930][492]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.22.08:930][492]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.22.10:941][733]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.22.10:957][735]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.22.10:957][735]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.22.10:966][736]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.22.10:974][737]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.22.10:974][737]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.22.12:983][978]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.22.12:999][980]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.22.12:999][980]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-19.22.13:008][981]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.22.13:016][982]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.22.13:016][982]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.22.15:027][223]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.22.15:044][225]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.22.15:044][225]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.22.15:052][226]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.22.15:061][227]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.22.15:061][227]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.22.17:070][468]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.22.17:087][470]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.22.17:087][470]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-19.22.17:095][471]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.22.17:103][472]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.22.17:103][472]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.22.19:115][713]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.22.19:132][715]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.22.19:132][715]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.22.19:140][716]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.22.19:149][717]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.22.19:149][717]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.22.21:158][958]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.22.21:175][960]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.22.21:175][960]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.22.21:183][961]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.22.21:192][962]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.22.21:192][962]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.22.23:201][203]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.22.23:218][205]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.22.23:218][205]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.22.23:226][206]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.22.23:235][207]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.22.23:235][207]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.22.25:245][448]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.22.25:262][450]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.22.25:262][450]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-19.22.25:270][451]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.22.25:278][452]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.22.25:278][452]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.22.27:287][693]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.22.27:304][695]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.22.27:304][695]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.22.27:312][696]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.22.27:320][697]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.22.27:321][697]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.22.29:331][930]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.22.29:348][932]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.22.29:348][932]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.22.29:356][933]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.22.29:364][934]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.22.29:364][934]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.22.31:373][175]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.22.31:390][177]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.22.31:390][177]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.22.31:399][178]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.22.31:407][179]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.22.31:407][179]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.22.33:417][420]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.22.33:433][422]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.22.33:433][422]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-19.22.33:442][423]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.22.33:450][424]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.22.33:450][424]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.22.35:460][665]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.22.35:477][667]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.22.35:477][667]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.22.35:485][668]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.22.35:494][669]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.22.35:494][669]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.22.37:503][908]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.22.37:520][910]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.22.37:520][910]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.22.37:528][911]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.22.37:536][912]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.22.37:537][912]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.22.39:546][153]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.22.39:563][155]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.22.39:563][155]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.22.39:572][156]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.22.39:579][157]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.22.39:579][157]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.22.41:594][398]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.22.41:611][400]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.22.41:611][400]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-19.22.41:619][401]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.22.41:628][402]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.22.41:628][402]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.22.43:637][643]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.22.43:653][645]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.22.43:653][645]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.22.43:662][646]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.22.43:670][647]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.22.43:670][647]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.22.45:682][888]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.22.45:698][890]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.22.45:698][890]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.22.45:707][891]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.22.45:715][892]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.22.45:715][892]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.22.47:723][133]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.22.47:740][135]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.22.47:740][135]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.22.47:748][136]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.22.47:757][137]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.22.47:757][137]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.22.49:767][378]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.22.49:783][380]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.22.49:783][380]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.22.49:791][381]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.22.49:799][382]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.22.49:799][382]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.22.51:809][623]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.22.51:825][625]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.22.51:825][625]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.22.51:834][626]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.22.51:842][627]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.22.51:842][627]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.22.52:566][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-19.22.52:567][710]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-19.22.52:567][710]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-19.22.52:568][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-19.22.52:588][710]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-19.22.52:597][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-19.22.52:656][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-19.22.52:656][710]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F4A666E200), frame # 942710
+[2022.10.05-19.22.52:656][710]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F427F7E400), frame # 942710
+[2022.10.05-19.22.52:659][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.10.05-19.22.52:687][711]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2022.10.05-19.23.13:278][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
