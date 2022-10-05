@@ -3761,3 +3761,884 @@ Make sure 'FixPlant_C' has been compiled for  Set Health
 [2022.10.05-19.22.52:659][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
 [2022.10.05-19.22.52:687][711]LogPlayLevel: Display: Destroying online subsystem :Context_45
 [2022.10.05-19.23.13:278][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.10.05-19.24.20:455][242]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.05-19.24.20:469][242]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.05-19.24.20:469][242]PIE: New page: PIE session: ThirdPersonExampleMap (5 okt. 2022 23:24:20)
+[2022.10.05-19.24.20:469][242]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-19.24.20:480][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010203s)
+[2022.10.05-19.24.20:480][242]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.10.05-19.24.20:480][242]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F450415C00), frame # 945242
+[2022.10.05-19.24.20:480][242]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F464427C40), frame # 945242
+[2022.10.05-19.24.20:481][242]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2022.10.05-19.24.20:481][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011402s)
+[2022.10.05-19.24.20:521][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.10.05-19.24.20:523][242]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-19.24.20:523][242]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-19.24.20:523][242]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-19.24.20:523][242]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-19.24.20:523][242]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-19.24.20:523][242]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.05-19.24.20:523][242]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-19.24.20:523][242]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-19.24.20:524][242]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.05-19.24.20:524][242]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.05-19.24.20:528][242]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-19.24.20:528][242]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-19.24.20:642][242]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.10.05-19.24.20:642][242]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-19.24.20:642][242]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-19.24.20:642][242]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-19.24.20:642][242]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.05-19.24.20:644][242]LogInit: FAudioDevice initialized.
+[2022.10.05-19.24.20:652][242]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.05-19.24.20:654][242]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.10.05-21.24.20
+[2022.10.05-19.24.20:655][242]LogWorld: Bringing up level for play took: 0.001996
+[2022.10.05-19.24.20:655][242]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2022.10.05-19.24.20:658][242]PIE: Server logged in
+[2022.10.05-19.24.20:659][242]PIE: Play in editor total start time 0,192 seconds.
+[2022.10.05-19.24.20:661][242]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.24.20:661][242]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.24.20:731][243]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.24.20:740][244]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.24.20:740][244]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.24.22:748][476]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.24.22:765][478]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.24.22:765][478]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.24.22:773][479]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.24.22:781][480]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.24.22:781][480]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.24.24:790][721]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.24.24:807][723]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.24.24:807][723]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.24.24:815][724]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.24.24:824][725]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.24.24:824][725]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.24.26:832][966]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.24.26:850][968]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.24.26:850][968]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.24.26:858][969]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.24.26:866][970]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.24.26:866][970]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.24.28:876][211]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.24.28:892][213]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.24.28:892][213]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.24.28:901][214]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.24.28:909][215]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.24.28:909][215]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.24.30:924][456]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.24.30:941][458]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.24.30:941][458]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-19.24.30:949][459]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.24.30:958][460]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.24.30:958][460]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.24.32:967][701]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.24.32:984][703]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.24.32:984][703]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-19.24.32:992][704]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.24.33:001][705]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.24.33:001][705]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.24.35:011][944]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.24.35:028][946]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.24.35:028][946]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.24.35:036][947]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.24.35:044][948]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.24.35:044][948]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.24.37:054][189]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.24.37:070][191]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.24.37:070][191]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-19.24.37:078][192]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.24.37:086][193]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.24.37:087][193]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.24.39:097][432]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.24.39:113][434]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.24.39:114][434]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.24.39:122][435]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.24.39:130][436]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.24.39:130][436]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.24.41:145][677]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.24.41:163][679]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.24.41:163][679]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.24.41:170][680]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.24.41:179][681]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.24.41:179][681]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.24.43:189][922]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.24.43:205][924]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.24.43:205][924]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.24.43:214][925]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.24.43:222][926]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.24.43:222][926]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.24.45:231][166]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.24.45:247][168]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.24.45:247][168]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.24.45:256][169]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.24.45:264][170]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.24.45:264][170]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.24.47:273][411]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.24.47:290][413]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.24.47:290][413]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.24.47:298][414]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.24.47:307][415]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.24.47:307][415]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.24.49:317][656]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.24.49:334][658]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.24.49:334][658]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-19.24.49:342][659]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.24.49:351][660]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.24.49:351][660]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.24.51:364][898]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.24.51:381][900]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.24.51:381][900]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.24.51:389][901]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.24.51:398][902]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.24.51:398][902]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.24.53:409][138]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.24.53:427][140]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.24.53:427][140]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.24.53:435][141]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.24.53:443][142]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.24.53:443][142]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.24.55:453][378]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.24.55:470][380]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.24.55:470][380]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.24.55:478][381]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.24.55:486][382]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.24.55:486][382]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.24.57:496][623]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.24.57:513][625]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.24.57:513][625]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.24.57:521][626]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.24.57:530][627]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.24.57:530][627]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.24.59:540][860]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.24.59:557][862]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.24.59:557][862]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.24.59:565][863]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.24.59:574][864]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.24.59:574][864]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.25.01:587][104]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.25.01:604][106]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.25.01:604][106]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.25.01:615][107]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.25.01:624][108]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.25.01:624][108]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.25.03:634][346]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.25.03:651][348]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.25.03:651][348]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.25.03:660][349]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.25.03:668][350]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.25.03:668][350]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.25.05:680][591]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.25.05:696][593]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.25.05:696][593]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-19.25.05:705][594]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.25.05:713][595]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.25.05:713][595]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.25.07:723][836]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.25.07:740][838]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.25.07:740][838]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.25.07:748][839]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.25.07:756][840]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.25.07:756][840]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.25.09:765][ 81]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.25.09:782][ 83]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.25.09:782][ 83]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-19.25.09:791][ 84]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.25.09:799][ 85]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.25.09:799][ 85]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.25.11:811][326]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.25.11:828][328]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.25.11:828][328]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-19.25.11:836][329]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.25.11:845][330]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.25.11:845][330]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.25.13:854][571]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.25.13:871][573]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.25.13:871][573]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-19.25.13:879][574]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.25.13:888][575]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.25.13:888][575]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.25.15:896][815]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.25.15:913][817]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.25.15:913][817]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-19.25.15:922][818]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.25.15:930][819]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.25.15:930][819]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.25.17:943][ 60]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.25.17:960][ 62]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.25.17:960][ 62]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.25.17:968][ 63]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.25.17:977][ 64]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.25.17:977][ 64]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.25.19:986][305]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.25.20:004][307]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.25.20:004][307]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-19.25.20:014][308]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.25.20:023][309]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.25.20:023][309]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.25.22:033][550]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.25.22:050][552]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.25.22:050][552]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.25.22:059][553]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.25.22:067][554]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.25.22:067][554]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.25.24:076][795]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.25.24:093][797]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.25.24:093][797]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-19.25.24:100][798]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.25.24:110][799]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.25.24:110][799]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.25.26:121][ 40]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.25.26:138][ 42]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.25.26:138][ 42]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.25.26:146][ 43]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.25.26:154][ 44]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.25.26:155][ 44]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.25.28:164][285]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.25.28:181][287]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.25.28:181][287]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.25.28:189][288]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.25.28:197][289]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.25.28:197][289]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.25.30:209][530]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.25.30:225][532]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.25.30:225][532]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-19.25.30:234][533]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.25.30:242][534]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.25.30:242][534]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.25.32:251][775]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.25.32:268][777]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.25.32:268][777]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.25.32:276][778]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.25.32:285][779]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.25.32:285][779]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.25.34:296][ 20]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.25.34:312][ 22]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.25.34:312][ 22]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.25.34:321][ 23]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.25.34:329][ 24]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.25.34:329][ 24]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.25.36:338][265]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.25.36:355][267]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.25.36:355][267]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.25.36:363][268]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.25.36:371][269]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.25.36:371][269]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.25.38:385][508]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.25.38:402][510]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.25.38:402][510]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-19.25.38:410][511]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.25.38:419][512]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.25.38:419][512]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.25.40:429][752]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.25.40:446][754]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.25.40:446][754]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.25.40:454][755]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.25.40:462][756]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.25.40:463][756]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.25.42:471][997]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.25.42:488][999]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.25.42:488][999]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.25.42:496][  0]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.25.42:504][  1]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.25.42:504][  1]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.25.44:517][242]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.25.44:534][244]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.25.44:534][244]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.25.44:542][245]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.25.44:551][246]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.25.44:551][246]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.25.46:559][487]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.25.46:576][489]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.25.46:576][489]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-19.25.46:585][490]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.25.46:593][491]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.25.46:593][491]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.25.48:602][731]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.25.48:619][733]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.25.48:619][733]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.25.48:627][734]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.25.48:635][735]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.25.48:636][735]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.25.50:650][975]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.25.50:666][977]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.25.50:666][977]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-19.25.50:675][978]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.25.50:683][979]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.25.50:683][979]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.25.52:693][220]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.25.52:710][222]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.25.52:710][222]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.25.52:718][223]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.25.52:726][224]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.25.52:726][224]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.25.54:735][465]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.25.54:752][467]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.25.54:752][467]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.25.54:760][468]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.25.54:769][469]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.25.54:769][469]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.25.56:780][710]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.25.56:796][712]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.25.56:796][712]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.25.56:805][713]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.25.56:813][714]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.25.56:813][714]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.25.58:823][947]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.25.58:840][949]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.25.58:840][949]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.25.58:848][950]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.25.58:856][951]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.25.58:856][951]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.26.00:867][191]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.26.00:883][193]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.26.00:884][193]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.26.00:892][194]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.26.00:900][195]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.26.00:900][195]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.26.02:911][435]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.26.02:928][437]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.26.02:928][437]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.26.02:936][438]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.26.02:943][439]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.26.02:943][439]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.26.04:956][680]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.26.04:973][682]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.26.04:973][682]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-19.26.04:981][683]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.26.04:990][684]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.26.04:990][684]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.26.06:999][925]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.26.07:014][927]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.26.07:015][927]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.26.07:023][928]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.26.07:031][929]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.26.07:031][929]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.26.09:041][170]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.26.09:057][172]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.26.09:057][172]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-19.26.09:065][173]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.26.09:074][174]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.26.09:074][174]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.26.11:087][415]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.26.11:103][417]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.26.11:103][417]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.26.11:112][418]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.26.11:120][419]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.26.11:120][419]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.26.13:129][660]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.26.13:145][662]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.26.13:145][662]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.26.13:154][663]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.26.13:162][664]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.26.13:162][664]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.26.15:173][905]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.26.15:190][907]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.26.15:190][907]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-19.26.15:199][908]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.26.15:207][909]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.26.15:207][909]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.26.17:217][150]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.26.17:233][152]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.26.17:233][152]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-19.26.17:242][153]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.26.17:250][154]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.26.17:250][154]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.26.19:260][395]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.26.19:277][397]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.26.19:277][397]LogBlueprintUserMessages: [SelectRandPlant_C_0] 2
+[2022.10.05-19.26.19:285][398]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.26.19:294][399]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.26.19:294][399]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.26.21:303][640]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.26.21:320][642]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.26.21:320][642]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.26.21:328][643]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.26.21:336][644]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.26.21:336][644]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.26.23:348][885]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.26.23:364][887]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.26.23:364][887]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-19.26.23:373][888]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.26.23:381][889]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.26.23:381][889]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.26.25:391][130]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.26.25:407][132]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.26.25:408][132]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.26.25:416][133]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.26.25:424][134]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.26.25:424][134]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.26.27:435][375]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.26.27:452][377]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.26.27:452][377]LogBlueprintUserMessages: [SelectRandPlant_C_0] 1
+[2022.10.05-19.26.27:460][378]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.26.27:468][379]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.26.27:468][379]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.26.29:477][620]LogBlueprintUserMessages: [FixPlant_C_0] Kunde casta
+[2022.10.05-19.26.29:493][622]LogBlueprintUserMessages: [SelectRandPlant_C_0] Index chosen
+[2022.10.05-19.26.29:493][622]LogBlueprintUserMessages: [SelectRandPlant_C_0] 0
+[2022.10.05-19.26.29:502][623]LogBlueprintUserMessages: [FindPlantLocation_C_1] Kunde casta
+[2022.10.05-19.26.29:510][624]LogBlueprintUserMessages: [MoveToByVector_C_0] Will go...
+[2022.10.05-19.26.29:510][624]LogBlueprintUserMessages: [MoveToByVector_C_0] Let's go!
+[2022.10.05-19.26.30:318][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-19.26.30:318][715]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.05-19.26.30:318][715]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-19.26.30:320][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-19.26.30:332][715]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-19.26.30:339][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-19.26.30:399][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-19.26.30:400][715]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F464427C40), frame # 960715
+[2022.10.05-19.26.30:400][715]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F450415C00), frame # 960715
+[2022.10.05-19.26.30:403][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.10.05-19.26.30:432][716]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2022.10.05-19.29.15:699][622]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.10.05-19.29.38:760][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.10.05-19.29.39:938][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.10.05-19.29.40:010][371]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-19.29.40:010][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-19.29.40:101][371]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-19.29.40:101][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-19.29.40:196][371]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-19.29.40:196][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-19.29.40:650][371]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-19.29.40:650][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-19.29.40:661][371]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-19.29.40:661][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-19.29.40:729][371]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-19.29.40:729][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-19.29.40:810][371]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-19.29.40:810][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-19.29.40:858][371]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-19.29.40:858][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-19.29.40:895][371]LogSlate: Window 'FixPlant' being destroyed
+[2022.10.05-19.29.40:903][371]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-19.29.40:903][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-19.29.40:973][371]LogSlate: Window 'GardenGame2 - Unreal Editor' being destroyed
+[2022.10.05-19.29.41:161][372]Cmd: QUIT_EDITOR
+[2022.10.05-19.29.41:161][372]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.10.05-19.29.41:170][372]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.10.05-19.29.41:252][372]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={33C5814F-411C-6611-D631-B69A2899778C}
+[2022.10.05-19.29.41:916][372]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2022.10.05-19.29.41:929][372]LogExit: Preparing to exit.
+[2022.10.05-19.29.42:843][372]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-19.29.42:847][372]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-19.29.42:850][372]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-19.29.42:853][372]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-19.29.42:856][372]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-19.29.42:859][372]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-19.29.42:862][372]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-19.29.42:911][372]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.10.05-19.29.42:929][372]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-19.29.42:930][372]LogExit: Editor shut down
+[2022.10.05-19.29.42:932][372]LogExit: Transaction tracking system shut down
+[2022.10.05-19.29.43:239][372]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000001F350B057C0), frame # 964372
+[2022.10.05-19.29.43:239][372]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F350A17B00), frame # 964372
+[2022.10.05-19.29.43:239][372]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F350A89C00), frame # 964372
+[2022.10.05-19.29.43:320][372]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F3493FCC00), frame # 964372
+[2022.10.05-19.29.43:320][372]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F3493CFB00), frame # 964372
+[2022.10.05-19.29.43:468][372]LogExit: Object subsystem successfully closed.
+[2022.10.05-19.29.43:513][372]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.10.05-19.29.43:642][372]LogModuleManager: Shutting down and abandoning module SequencerWidgets (798)
+[2022.10.05-19.29.43:642][372]LogModuleManager: Shutting down and abandoning module BlueprintGraph (796)
+[2022.10.05-19.29.43:642][372]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (794)
+[2022.10.05-19.29.43:642][372]LogModuleManager: Shutting down and abandoning module Voice (792)
+[2022.10.05-19.29.43:642][372]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (790)
+[2022.10.05-19.29.43:643][372]LogModuleManager: Shutting down and abandoning module SceneOutliner (788)
+[2022.10.05-19.29.43:643][372]LogModuleManager: Shutting down and abandoning module AddContentDialog (786)
+[2022.10.05-19.29.43:646][372]LogModuleManager: Shutting down and abandoning module WidgetCarousel (785)
+[2022.10.05-19.29.43:646][372]LogModuleManager: Shutting down and abandoning module EditorWidgets (782)
+[2022.10.05-19.29.43:646][372]LogModuleManager: Shutting down and abandoning module CollectionManager (780)
+[2022.10.05-19.29.43:648][372]LogModuleManager: Shutting down and abandoning module StatsViewer (778)
+[2022.10.05-19.29.43:649][372]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (776)
+[2022.10.05-19.29.43:649][372]LogModuleManager: Shutting down and abandoning module FoliageEdit (774)
+[2022.10.05-19.29.43:651][372]LogModuleManager: Shutting down and abandoning module LandscapeEditor (772)
+[2022.10.05-19.29.43:656][372]LogModuleManager: Shutting down and abandoning module MeshPaintMode (770)
+[2022.10.05-19.29.43:656][372]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (768)
+[2022.10.05-19.29.43:657][372]LogModuleManager: Shutting down and abandoning module ActorPickerMode (766)
+[2022.10.05-19.29.43:657][372]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (764)
+[2022.10.05-19.29.43:659][372]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (762)
+[2022.10.05-19.29.43:659][372]LogModuleManager: Shutting down and abandoning module AutomationWorker (760)
+[2022.10.05-19.29.43:660][372]LogModuleManager: Shutting down and abandoning module SteamVREditor (758)
+[2022.10.05-19.29.43:660][372]LogModuleManager: Shutting down and abandoning module OculusMR (756)
+[2022.10.05-19.29.43:660][372]LogModuleManager: Shutting down and abandoning module GooglePADEditor (754)
+[2022.10.05-19.29.43:661][372]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (752)
+[2022.10.05-19.29.43:661][372]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (750)
+[2022.10.05-19.29.43:661][372]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (748)
+[2022.10.05-19.29.43:662][372]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (746)
+[2022.10.05-19.29.43:664][372]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (744)
+[2022.10.05-19.29.43:665][372]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (742)
+[2022.10.05-19.29.43:665][372]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (740)
+[2022.10.05-19.29.43:665][372]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (738)
+[2022.10.05-19.29.43:665][372]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (736)
+[2022.10.05-19.29.43:665][372]LogModuleManager: Shutting down and abandoning module WebMMedia (734)
+[2022.10.05-19.29.43:665][372]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (732)
+[2022.10.05-19.29.43:667][372]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (730)
+[2022.10.05-19.29.43:668][372]LogModuleManager: Shutting down and abandoning module SequenceRecorder (729)
+[2022.10.05-19.29.43:668][372]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (726)
+[2022.10.05-19.29.43:668][372]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (724)
+[2022.10.05-19.29.43:668][372]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (722)
+[2022.10.05-19.29.43:668][372]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (720)
+[2022.10.05-19.29.43:668][372]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (718)
+[2022.10.05-19.29.43:668][372]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (716)
+[2022.10.05-19.29.43:668][372]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (714)
+[2022.10.05-19.29.43:668][372]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (712)
+[2022.10.05-19.29.43:668][372]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (710)
+[2022.10.05-19.29.43:668][372]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (708)
+[2022.10.05-19.29.43:668][372]LogModuleManager: Shutting down and abandoning module PlanarCut (706)
+[2022.10.05-19.29.43:669][372]LogModuleManager: Shutting down and abandoning module CharacterAI (704)
+[2022.10.05-19.29.43:669][372]LogModuleManager: Shutting down and abandoning module TextureAlignMode (702)
+[2022.10.05-19.29.43:669][372]LogModuleManager: Shutting down and abandoning module BspMode (700)
+[2022.10.05-19.29.43:670][372]LogModuleManager: Shutting down and abandoning module PlacementMode (699)
+[2022.10.05-19.29.43:670][372]LogModuleManager: Shutting down and abandoning module GeometryMode (696)
+[2022.10.05-19.29.43:670][372]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (694)
+[2022.10.05-19.29.43:671][372]LogModuleManager: Shutting down and abandoning module SmartSnapping (692)
+[2022.10.05-19.29.43:671][372]LogModuleManager: Shutting down and abandoning module SessionServices (690)
+[2022.10.05-19.29.43:671][372]LogModuleManager: Shutting down and abandoning module MeshPaint (688)
+[2022.10.05-19.29.43:673][372]LogModuleManager: Shutting down and abandoning module ViewportSnapping (686)
+[2022.10.05-19.29.43:673][372]LogModuleManager: Shutting down and abandoning module ViewportInteraction (684)
+[2022.10.05-19.29.43:673][372]LogModuleManager: Shutting down and abandoning module ClothPainter (682)
+[2022.10.05-19.29.43:675][372]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (681)
+[2022.10.05-19.29.43:677][372]LogModuleManager: Shutting down and abandoning module LogVisualizer (678)
+[2022.10.05-19.29.43:679][372]LogModuleManager: Shutting down and abandoning module IntroTutorials (676)
+[2022.10.05-19.29.43:680][372]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (675)
+[2022.10.05-19.29.43:681][372]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (672)
+[2022.10.05-19.29.43:681][372]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (670)
+[2022.10.05-19.29.43:681][372]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (668)
+[2022.10.05-19.29.43:681][372]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (667)
+[2022.10.05-19.29.43:868][372]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (664)
+[2022.10.05-19.29.43:868][372]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (662)
+[2022.10.05-19.29.43:868][372]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (660)
+[2022.10.05-19.29.43:868][372]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (658)
+[2022.10.05-19.29.43:868][372]LogModuleManager: Shutting down and abandoning module TraceInsights (656)
+[2022.10.05-19.29.43:877][372]LogModuleManager: Shutting down and abandoning module TraceServices (655)
+[2022.10.05-19.29.43:879][372]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (652)
+[2022.10.05-19.29.43:880][372]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (650)
+[2022.10.05-19.29.43:880][372]LogModuleManager: Shutting down and abandoning module InputBindingEditor (648)
+[2022.10.05-19.29.43:880][372]LogModuleManager: Shutting down and abandoning module MergeActors (646)
+[2022.10.05-19.29.43:881][372]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (644)
+[2022.10.05-19.29.43:882][372]LogModuleManager: Shutting down and abandoning module LocalizationService (643)
+[2022.10.05-19.29.43:883][372]LogModuleManager: Shutting down and abandoning module HardwareTargeting (640)
+[2022.10.05-19.29.43:883][372]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (638)
+[2022.10.05-19.29.43:884][372]LogModuleManager: Shutting down and abandoning module UndoHistory (636)
+[2022.10.05-19.29.43:885][372]LogModuleManager: Shutting down and abandoning module XmlParser (634)
+[2022.10.05-19.29.43:885][372]LogModuleManager: Shutting down and abandoning module Blutility (632)
+[2022.10.05-19.29.43:885][372]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (630)
+[2022.10.05-19.29.43:886][372]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (629)
+[2022.10.05-19.29.43:887][372]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (626)
+[2022.10.05-19.29.43:888][372]LogModuleManager: Shutting down and abandoning module SettingsEditor (624)
+[2022.10.05-19.29.43:890][372]LogModuleManager: Shutting down and abandoning module ProjectLauncher (622)
+[2022.10.05-19.29.43:891][372]LogModuleManager: Shutting down and abandoning module SessionFrontend (620)
+[2022.10.05-19.29.43:892][372]LogModuleManager: Shutting down and abandoning module ProfilerClient (618)
+[2022.10.05-19.29.43:893][372]LogModuleManager: Shutting down and abandoning module DeviceManager (616)
+[2022.10.05-19.29.43:894][372]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (615)
+[2022.10.05-19.29.43:927][372]LogModuleManager: Shutting down and abandoning module AutomationController (612)
+[2022.10.05-19.29.43:927][372]LogModuleManager: Shutting down and abandoning module AutomationWindow (610)
+[2022.10.05-19.29.43:928][372]LogModuleManager: Shutting down and abandoning module Layers (608)
+[2022.10.05-19.29.43:931][372]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (606)
+[2022.10.05-19.29.43:931][372]LogModuleManager: Shutting down and abandoning module DetailCustomizations (604)
+[2022.10.05-19.29.43:931][372]LogModuleManager: Shutting down and abandoning module PackagesDialog (602)
+[2022.10.05-19.29.43:932][372]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (600)
+[2022.10.05-19.29.43:933][372]LogModuleManager: Shutting down and abandoning module Persona (598)
+[2022.10.05-19.29.43:935][372]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (597)
+[2022.10.05-19.29.43:935][372]LogModuleManager: Shutting down and abandoning module AnimGraph (595)
+[2022.10.05-19.29.43:935][372]LogModuleManager: Shutting down and abandoning module Kismet (592)
+[2022.10.05-19.29.43:959][372]LogModuleManager: Shutting down and abandoning module KismetWidgets (591)
+[2022.10.05-19.29.43:959][372]LogModuleManager: Shutting down and abandoning module GraphEditor (588)
+[2022.10.05-19.29.43:959][372]LogModuleManager: Shutting down and abandoning module StructViewer (586)
+[2022.10.05-19.29.43:959][372]LogModuleManager: Shutting down and abandoning module ClassViewer (584)
+[2022.10.05-19.29.43:962][372]LogModuleManager: Shutting down and abandoning module Toolbox (582)
+[2022.10.05-19.29.43:962][372]LogModuleManager: Shutting down and abandoning module ModuleUI (580)
+[2022.10.05-19.29.43:963][372]LogModuleManager: Shutting down and abandoning module OutputLog (578)
+[2022.10.05-19.29.43:967][372]LogModuleManager: Shutting down and abandoning module GammaUI (576)
+[2022.10.05-19.29.43:968][372]LogModuleManager: Shutting down and abandoning module Documentation (574)
+[2022.10.05-19.29.43:972][372]LogModuleManager: Shutting down and abandoning module LiveCoding (572)
+[2022.10.05-19.29.43:974][372]LogModuleManager: Shutting down and abandoning module LevelSequence (570)
+[2022.10.05-19.29.43:974][372]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (568)
+[2022.10.05-19.29.43:974][372]LogModuleManager: Shutting down and abandoning module MovieScene (566)
+[2022.10.05-19.29.43:974][372]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (564)
+[2022.10.05-19.29.43:975][372]LogModuleManager: Shutting down and abandoning module LauncherPlatform (562)
+[2022.10.05-19.29.43:975][372]LogModuleManager: Shutting down and abandoning module AnalyticsET (560)
+[2022.10.05-19.29.43:975][372]LogModuleManager: Shutting down and abandoning module PortalServices (558)
+[2022.10.05-19.29.43:975][372]LogModuleManager: Shutting down and abandoning module PortalRpc (556)
+[2022.10.05-19.29.43:975][372]LogModuleManager: Shutting down and abandoning module MessagingRpc (554)
+[2022.10.05-19.29.43:975][372]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (552)
+[2022.10.05-19.29.43:975][372]LogModuleManager: Shutting down and abandoning module AudioMixerCore (551)
+[2022.10.05-19.29.43:975][372]LogModuleManager: Shutting down and abandoning module AIModule (548)
+[2022.10.05-19.29.43:976][372]LogModuleManager: Shutting down and abandoning module GameplayDebugger (547)
+[2022.10.05-19.29.43:976][372]LogModuleManager: Shutting down and abandoning module AITestSuite (545)
+[2022.10.05-19.29.43:976][372]LogModuleManager: Shutting down and abandoning module NavigationSystem (543)
+[2022.10.05-19.29.43:976][372]LogModuleManager: Shutting down and abandoning module ProfilerService (540)
+[2022.10.05-19.29.44:176][372]LogModuleManager: Shutting down and abandoning module TaskGraph (538)
+[2022.10.05-19.29.44:176][372]LogModuleManager: Shutting down and abandoning module ScreenshotTools (536)
+[2022.10.05-19.29.44:176][372]LogModuleManager: Shutting down and abandoning module SynthesisEditor (534)
+[2022.10.05-19.29.44:177][372]LogModuleManager: Shutting down and abandoning module Synthesis (532)
+[2022.10.05-19.29.44:178][372]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (530)
+[2022.10.05-19.29.44:179][372]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (528)
+[2022.10.05-19.29.44:179][372]LogModuleManager: Shutting down and abandoning module OculusEditor (526)
+[2022.10.05-19.29.44:179][372]LogModuleManager: Shutting down and abandoning module OculusInput (524)
+[2022.10.05-19.29.44:179][372]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (522)
+[2022.10.05-19.29.44:179][372]LogModuleManager: Shutting down and abandoning module GooglePAD (520)
+[2022.10.05-19.29.44:179][372]LogModuleManager: Shutting down and abandoning module EditableMesh (518)
+[2022.10.05-19.29.44:179][372]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (516)
+[2022.10.05-19.29.44:179][372]LogModuleManager: Shutting down and abandoning module CableComponent (514)
+[2022.10.05-19.29.44:180][372]LogModuleManager: Shutting down and abandoning module AudioCapture (512)
+[2022.10.05-19.29.44:180][372]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (511)
+[2022.10.05-19.29.44:181][372]LogModuleManager: Shutting down and abandoning module AssetTags (508)
+[2022.10.05-19.29.44:181][372]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (506)
+[2022.10.05-19.29.44:181][372]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (504)
+[2022.10.05-19.29.44:181][372]LogModuleManager: Shutting down and abandoning module AppleImageUtils (502)
+[2022.10.05-19.29.44:181][372]LogModuleManager: Shutting down and abandoning module AndroidPermission (500)
+[2022.10.05-19.29.44:181][372]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (498)
+[2022.10.05-19.29.44:182][372]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (496)
+[2022.10.05-19.29.44:183][372]LogModuleManager: Shutting down and abandoning module TemplateSequence (494)
+[2022.10.05-19.29.44:183][372]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (492)
+[2022.10.05-19.29.44:183][372]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (490)
+[2022.10.05-19.29.44:184][372]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (488)
+[2022.10.05-19.29.44:184][372]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (486)
+[2022.10.05-19.29.44:184][372]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (485)
+[2022.10.05-19.29.44:184][372]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (482)
+[2022.10.05-19.29.44:186][372]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (480)
+[2022.10.05-19.29.44:186][372]LogModuleManager: Shutting down and abandoning module MediaCompositing (478)
+[2022.10.05-19.29.44:186][372]LogModuleManager: Shutting down and abandoning module ImgMedia (476)
+[2022.10.05-19.29.44:186][372]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (474)
+[2022.10.05-19.29.44:186][372]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (472)
+[2022.10.05-19.29.44:186][372]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (470)
+[2022.10.05-19.29.44:186][372]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (468)
+[2022.10.05-19.29.44:186][372]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (466)
+[2022.10.05-19.29.44:186][372]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (464)
+[2022.10.05-19.29.44:189][372]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (462)
+[2022.10.05-19.29.44:191][372]LogModuleManager: Shutting down and abandoning module MeshConversion (460)
+[2022.10.05-19.29.44:192][372]LogModuleManager: Shutting down and abandoning module DynamicMesh (458)
+[2022.10.05-19.29.44:197][372]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (456)
+[2022.10.05-19.29.44:200][372]LogModuleManager: Shutting down and abandoning module GeometricObjects (454)
+[2022.10.05-19.29.44:201][372]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (452)
+[2022.10.05-19.29.44:201][372]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (451)
+[2022.10.05-19.29.44:201][372]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (448)
+[2022.10.05-19.29.44:201][372]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (446)
+[2022.10.05-19.29.44:201][372]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (444)
+[2022.10.05-19.29.44:201][372]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (442)
+[2022.10.05-19.29.44:201][372]LogModuleManager: Shutting down and abandoning module ChaosNiagara (440)
+[2022.10.05-19.29.44:201][372]LogModuleManager: Shutting down and abandoning module FractureEditor (438)
+[2022.10.05-19.29.44:203][372]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (436)
+[2022.10.05-19.29.44:203][372]LogModuleManager: Shutting down and abandoning module ChaosCloth (434)
+[2022.10.05-19.29.44:203][372]LogModuleManager: Shutting down and abandoning module BackChannel (432)
+[2022.10.05-19.29.44:204][372]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (430)
+[2022.10.05-19.29.44:204][372]LogModuleManager: Shutting down and abandoning module AutomationUtils (428)
+[2022.10.05-19.29.44:204][372]LogModuleManager: Shutting down and abandoning module AlembicImporter (426)
+[2022.10.05-19.29.44:204][372]LogModuleManager: Shutting down and abandoning module AlembicLibrary (425)
+[2022.10.05-19.29.44:204][372]LogModuleManager: Shutting down and abandoning module GeometryCache (424)
+[2022.10.05-19.29.44:204][372]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (423)
+[2022.10.05-19.29.44:204][372]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (418)
+[2022.10.05-19.29.44:205][372]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (416)
+[2022.10.05-19.29.44:205][372]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (414)
+[2022.10.05-19.29.44:205][372]LogModuleManager: Shutting down and abandoning module PluginBrowser (412)
+[2022.10.05-19.29.44:207][372]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (410)
+[2022.10.05-19.29.44:208][372]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (408)
+[2022.10.05-19.29.44:209][372]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (406)
+[2022.10.05-19.29.44:210][372]LogModuleManager: Shutting down and abandoning module CurveEditorTools (404)
+[2022.10.05-19.29.44:211][372]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (402)
+[2022.10.05-19.29.44:211][372]LogModuleManager: Shutting down and abandoning module CryptoKeys (400)
+[2022.10.05-19.29.44:211][372]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (398)
+[2022.10.05-19.29.44:211][372]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (396)
+[2022.10.05-19.29.44:211][372]LogModuleManager: Shutting down and abandoning module UObjectPlugin (394)
+[2022.10.05-19.29.44:211][372]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (392)
+[2022.10.05-19.29.44:215][372]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (390)
+[2022.10.05-19.29.44:215][372]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (388)
+[2022.10.05-19.29.44:218][372]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (386)
+[2022.10.05-19.29.44:220][372]LogModuleManager: Shutting down and abandoning module GitSourceControl (384)
+[2022.10.05-19.29.44:222][372]LogModuleManager: Shutting down and abandoning module SourceControl (383)
+[2022.10.05-19.29.44:222][372]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (380)
+[2022.10.05-19.29.44:223][372]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (378)
+[2022.10.05-19.29.44:223][372]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (376)
+[2022.10.05-19.29.44:223][372]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (374)
+[2022.10.05-19.29.44:223][372]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (372)
+[2022.10.05-19.29.44:223][372]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (370)
+[2022.10.05-19.29.44:223][372]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (368)
+[2022.10.05-19.29.44:223][372]LogModuleManager: Shutting down and abandoning module Paper2DEditor (366)
+[2022.10.05-19.29.44:224][372]LogModuleManager: Shutting down and abandoning module SoundFields (364)
+[2022.10.05-19.29.44:224][372]LogModuleManager: Shutting down and abandoning module SignificanceManager (362)
+[2022.10.05-19.29.44:224][372]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
+[2022.10.05-19.29.44:224][372]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (358)
+[2022.10.05-19.29.44:224][372]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (354)
+[2022.10.05-19.29.44:224][372]LogModuleManager: Shutting down and abandoning module ActorSequence (352)
+[2022.10.05-19.29.44:224][372]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2022.10.05-19.29.44:326][372]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2022.10.05-19.29.44:427][372]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
+[2022.10.05-19.29.44:427][372]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
+[2022.10.05-19.29.44:427][372]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
+[2022.10.05-19.29.44:427][372]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
+[2022.10.05-19.29.44:427][372]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
+[2022.10.05-19.29.44:428][372]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.10.05-19.29.44:428][372]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
+[2022.10.05-19.29.44:428][372]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
+[2022.10.05-19.29.44:428][372]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
+[2022.10.05-19.29.44:429][372]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
+[2022.10.05-19.29.44:429][372]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
+[2022.10.05-19.29.44:429][372]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.10.05-19.29.44:429][372]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
+[2022.10.05-19.29.44:431][372]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
+[2022.10.05-19.29.44:431][372]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
+[2022.10.05-19.29.44:431][372]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2022.10.05-19.29.44:431][372]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2022.10.05-19.29.44:432][372]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2022.10.05-19.29.44:432][372]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2022.10.05-19.29.44:434][372]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2022.10.05-19.29.44:434][372]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2022.10.05-19.29.44:435][372]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2022.10.05-19.29.44:435][372]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2022.10.05-19.29.44:435][372]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2022.10.05-19.29.44:435][372]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2022.10.05-19.29.44:438][372]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
+[2022.10.05-19.29.44:440][372]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
+[2022.10.05-19.29.44:441][372]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
+[2022.10.05-19.29.44:442][372]LogModuleManager: Shutting down and abandoning module MainFrame (296)
+[2022.10.05-19.29.44:442][372]LogModuleManager: Shutting down and abandoning module HotReload (295)
+[2022.10.05-19.29.44:443][372]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
+[2022.10.05-19.29.44:443][372]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2022.10.05-19.29.44:445][372]LogModuleManager: Shutting down and abandoning module AnimationSharing (286)
+[2022.10.05-19.29.44:445][372]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
+[2022.10.05-19.29.44:445][372]LogModuleManager: Shutting down and abandoning module Paper2D (282)
+[2022.10.05-19.29.44:445][372]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (280)
+[2022.10.05-19.29.44:451][372]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (278)
+[2022.10.05-19.29.44:452][372]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (276)
+[2022.10.05-19.29.44:452][372]LogModuleManager: Shutting down and abandoning module PacketHandler (274)
+[2022.10.05-19.29.44:452][372]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (272)
+[2022.10.05-19.29.44:452][372]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (270)
+[2022.10.05-19.29.44:454][372]LogModuleManager: Shutting down and abandoning module MediaAssets (268)
+[2022.10.05-19.29.44:454][372]LogModuleManager: Shutting down and abandoning module Overlay (266)
+[2022.10.05-19.29.44:454][372]LogModuleManager: Shutting down and abandoning module OverlayEditor (265)
+[2022.10.05-19.29.44:454][372]LogModuleManager: Shutting down and abandoning module VREditor (262)
+[2022.10.05-19.29.44:455][372]LogModuleManager: Shutting down and abandoning module StringTableEditor (260)
+[2022.10.05-19.29.44:456][372]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (258)
+[2022.10.05-19.29.44:456][372]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (256)
+[2022.10.05-19.29.44:456][372]LogModuleManager: Shutting down and abandoning module FunctionalTesting (254)
+[2022.10.05-19.29.44:456][372]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (252)
+[2022.10.05-19.29.44:458][372]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2022.10.05-19.29.44:458][372]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2022.10.05-19.29.44:458][372]LogModuleManager: Shutting down and abandoning module MessageLog (247)
+[2022.10.05-19.29.44:458][372]LogModuleManager: Shutting down and abandoning module MaterialEditor (245)
+[2022.10.05-19.29.44:458][372]LogModuleManager: Shutting down and abandoning module ContentBrowser (244)
+[2022.10.05-19.29.44:462][372]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
+[2022.10.05-19.29.44:462][372]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2022.10.05-19.29.44:466][372]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2022.10.05-19.29.44:466][372]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2022.10.05-19.29.44:466][372]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2022.10.05-19.29.44:466][372]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2022.10.05-19.29.44:466][372]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2022.10.05-19.29.44:466][372]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2022.10.05-19.29.44:467][372]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2022.10.05-19.29.44:467][372]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2022.10.05-19.29.44:467][372]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2022.10.05-19.29.44:467][372]LogModuleManager: Shutting down and abandoning module Core (216)
+[2022.10.05-19.29.44:467][372]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2022.10.05-19.29.44:467][372]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
+[2022.10.05-19.29.44:467][372]LogModuleManager: Shutting down and abandoning module Sequencer (211)
+[2022.10.05-19.29.44:467][372]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
+[2022.10.05-19.29.44:470][372]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2022.10.05-19.29.44:470][372]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2022.10.05-19.29.44:470][372]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2022.10.05-19.29.44:471][372]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2022.10.05-19.29.44:473][372]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2022.10.05-19.29.44:473][372]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2022.10.05-19.29.44:473][372]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2022.10.05-19.29.44:474][372]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2022.10.05-19.29.44:477][372]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2022.10.05-19.29.44:478][372]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2022.10.05-19.29.44:480][372]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2022.10.05-19.29.44:480][372]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
+[2022.10.05-19.29.44:480][372]LogModuleManager: Shutting down and abandoning module XGEController (180)
+[2022.10.05-19.29.44:480][372]LogXGEController: Cleaning working directory: C:/Users/johfo532/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.10.05-19.29.44:482][372]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2022.10.05-19.29.44:482][372]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2022.10.05-19.29.44:483][372]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2022.10.05-19.29.44:484][372]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2022.10.05-19.29.44:484][372]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2022.10.05-19.29.44:484][372]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2022.10.05-19.29.44:485][372]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
+[2022.10.05-19.29.44:485][372]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
+[2022.10.05-19.29.44:485][372]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2022.10.05-19.29.44:485][372]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2022.10.05-19.29.44:486][372]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2022.10.05-19.29.44:486][372]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2022.10.05-19.29.44:486][372]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
+[2022.10.05-19.29.44:486][372]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
+[2022.10.05-19.29.44:487][372]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
+[2022.10.05-19.29.44:488][372]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
+[2022.10.05-19.29.44:489][372]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
+[2022.10.05-19.29.44:490][372]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
+[2022.10.05-19.29.44:490][372]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
+[2022.10.05-19.29.44:490][372]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
+[2022.10.05-19.29.44:490][372]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2022.10.05-19.29.44:500][372]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
+[2022.10.05-19.29.44:505][372]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
+[2022.10.05-19.29.44:506][372]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
+[2022.10.05-19.29.44:507][372]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
+[2022.10.05-19.29.44:507][372]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
+[2022.10.05-19.29.44:508][372]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
+[2022.10.05-19.29.44:509][372]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2022.10.05-19.29.44:509][372]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2022.10.05-19.29.44:509][372]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2022.10.05-19.29.44:509][372]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2022.10.05-19.29.44:513][372]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2022.10.05-19.29.44:528][372]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2022.10.05-19.29.44:528][372]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2022.10.05-19.29.44:528][372]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2022.10.05-19.29.44:528][372]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2022.10.05-19.29.44:528][372]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2022.10.05-19.29.44:528][372]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2022.10.05-19.29.44:530][372]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2022.10.05-19.29.44:530][372]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2022.10.05-19.29.44:530][372]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2022.10.05-19.29.44:530][372]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2022.10.05-19.29.44:531][372]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
+[2022.10.05-19.29.44:531][372]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2022.10.05-19.29.44:532][372]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2022.10.05-19.29.44:532][372]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2022.10.05-19.29.44:532][372]LogHMD: Freeing OpenVRDLLHandle.
+[2022.10.05-19.29.44:532][372]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2022.10.05-19.29.44:532][372]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2022.10.05-19.29.44:532][372]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2022.10.05-19.29.44:532][372]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2022.10.05-19.29.44:532][372]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2022.10.05-19.29.44:534][372]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2022.10.05-19.29.44:536][372]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2022.10.05-19.29.44:560][372]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2022.10.05-19.29.44:560][372]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2022.10.05-19.29.44:560][372]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B33C5814F-411C-6611-D631-B69A2899778C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=db44aa8242c5c47bcd9820880bfc78dc%7C%7C64ce964c-c6e9-4e4f-a971-31433603633a&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2022.10.05-19.29.44:560][372]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B33C5814F-411C-6611-D631-B69A2899778C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=db44aa8242c5c47bcd9820880bfc78dc%7C%7C64ce964c-c6e9-4e4f-a971-31433603633a&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2022.10.05-19.29.44:569][372]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2022.10.05-19.29.44:571][372]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2022.10.05-19.29.44:575][372]LogModuleManager: Shutting down and abandoning module Media (61)
+[2022.10.05-19.29.44:575][372]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2022.10.05-19.29.44:575][372]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2022.10.05-19.29.44:577][372]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2022.10.05-19.29.44:577][372]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2022.10.05-19.29.44:577][372]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2022.10.05-19.29.44:577][372]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2022.10.05-19.29.44:577][372]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2022.10.05-19.29.44:578][372]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.10.05-19.29.44:578][372]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.10.05-19.29.44:578][372]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.10.05-19.29.44:578][372]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.10.05-19.29.44:579][372]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2022.10.05-19.29.44:580][372]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2022.10.05-19.29.44:582][372]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2022.10.05-19.29.44:582][372]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2022.10.05-19.29.44:582][372]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2022.10.05-19.29.44:582][372]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2022.10.05-19.29.44:584][372]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2022.10.05-19.29.44:585][372]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2022.10.05-19.29.44:585][372]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.10.05-19.29.44:586][372]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.10.05-19.29.44:586][372]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.10.05-19.29.44:586][372]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.10.05-19.29.44:586][372]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.10.05-19.29.44:587][372]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.10.05-19.29.44:587][372]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.10.05-19.29.44:588][372]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.10.05-19.29.44:588][372]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.10.05-19.29.44:588][372]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.10.05-19.29.44:588][372]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.10.05-19.29.44:592][372]LogD3D11RHI: Shutdown
+[2022.10.05-19.29.44:592][372]LogD3D11RHI: CleanupD3DDevice
+[2022.10.05-19.29.44:616][372]LogExit: Exiting.
+[2022.10.05-19.29.44:637][372]Log file closed, 10/05/22 21:29:44
